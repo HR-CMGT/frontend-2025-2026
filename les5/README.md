@@ -1,6 +1,6 @@
 # Les 5
 
-> *“A Pixel is Not a Pixel”*
+> *"A Pixel is Not a Pixel"*
 
 <br>
 

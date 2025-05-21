@@ -23,8 +23,7 @@ HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
 
 ## Startcode downloaden
 
-<a href="https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865" target="_blank">Download de startcode uit
-Brightspace.</a>
+[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)
 
 <br>
 
@@ -59,4 +58,4 @@ Bouw onderstaand ontwerp na.
 
 <br>
 
-<a href="../.." target="_blank">Terug naar hoofdpagina</a>
+[Terug naar hoofdpagina](../..)

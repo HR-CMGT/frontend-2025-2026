@@ -39,7 +39,7 @@ Het is met Flexbox trouwens ook mogelijk om elementen weer onder elkaar te zette
 <br><br>
 
 > Naast Flexbox heb je ook nog Grid. Deze techniek staat ook in de Expert-kolom in het beoordelingsmodel. Wil je hier
-> meer over weten? Zie de <a href="../eindopdracht/" target="_blank">hulpbronnen bij de eindopdracht</a>.
+> meer over weten? Zie de [hulpbronnen bij de eindopdracht](../eindopdracht/).
 
 <br>
 
@@ -99,8 +99,7 @@ zelf in en heeft alleen invloed op de children waarop je het instelt.
 | align-self  | Deze optie werkt hetzelfde als align-items, maar wordt hier alleen toegepast op het specifieke child.    | align-self: flex-end;<br><img src="./images/align-self.svg" width="300"> |
 
 Voor het volledige overzicht,
-<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-properties" target="_blank">zie deze
-documentatie</a>.
+[zie deze documentatie](https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-properties).
 
 <br>
 
@@ -109,7 +108,7 @@ documentatie</a>.
 Om erachter te komen wat er allemaal mogelijk is met Flexbox gebruik je de `inspector`. Hierin kun je namelijk met
 simpelweg drukken op knopjes veel parent-opties uitproberen. Inspecteer een HTML-tag die staat ingesteld als Flexbox en
 klik rechts van `display: flex` op het Flexbox-knopje. Voor meer info, bekijk de volgende video:
-<a href="https://developer.chrome.com/docs/devtools/css/flexbox/" target="_blank">https://developer.chrome.com/docs/devtools/css/flexbox/</a>
+[https://developer.chrome.com/docs/devtools/css/flexbox/](https://developer.chrome.com/docs/devtools/css/flexbox/)
 
 <img src="./images/flex-inspector.png" alt="Flexbox inspector" title="Flexbox inspector" width="300">
 
@@ -122,15 +121,12 @@ klik rechts van `display: flex` op het Flexbox-knopje. Voor meer info, bekijk de
 
 ## Hulpbronnen voor Flexbox
 
-- <a href="./images/flex-cheatsheet.pdf" target="_blank">Flexbox basics
-  cheatsheet</a><br><a href="./images/flex-cheatsheet.pdf" target="_blank"><img src="./images/flex-cheatsheet.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300"></a>
-- <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">A Complete Guide to Flexbox</a>
-- <a href="https://www.youtube.com/watch?v=K74l26pE4YA" target="_blank">Video: CSS Flexbox in 100 Seconds</a>
-- <a href="https://www.youtube.com/watch?v=CFgeJq4l1YM" target="_blank">Video waarin flex-grow, flex-shrink en
-  flex-basis wordt uitgelegd met voorbeelden</a>
+- [Flexbox basics cheatsheet](./images/flex-cheatsheet.pdf)<br>![Flexbox cheatsheet](./images/flex-cheatsheet.png)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Video: CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
+- [Video waarin flex-grow, flex-shrink en flex-basis wordt uitgelegd met voorbeelden](https://www.youtube.com/watch?v=CFgeJq4l1YM)
 
-<br><br> **Klaar met het hoofdstuk over Flexbox?** <br> <a href="minipuzzels/flexbox/" target="_blank">Klik dan hier om
-naar de minipuzzels over Flexbox te gaan.</a>
+<br><br> **Klaar met het hoofdstuk over Flexbox?** <br> [Klik dan hier om naar de minipuzzels over Flexbox te gaan.](minipuzzels/flexbox/)
 
 <br><hr><br>
 
@@ -170,7 +166,7 @@ klikt. Hiervoor heb je twee opties die hieronder worden toegelicht.
 staan drie secties op jouw pagina, dan zou je in de navigatie per sectie een `<a>` in de `<nav>` kunnen plaatsen. Dit
 is vooral handig bij hele lange pagina's, zodat je gemakkelijk van de ene sectie naar de andere kan klikken. Een
 voorbeeld van de code hiervoor vind je terug in de
-<a href="../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf" target="_blank">Cheatsheet HTML & CSS</a> op pagina 2.
+[Cheatsheet HTML & CSS](../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf) op pagina 2.
 
 <br>
 
@@ -218,7 +214,7 @@ je afhankelijk van de situatie de `<a>` een andere styling kan geven. Het gaat o
 
 Bovenstaande states kun je in de CSS selecteren door het gebruik van zogenaamde _pseudo-classes_. Deze classes hoef je
 niet handmatig in de HTML in te voeren, maar krijgt de HTML-tag vanzelf. Meer info is
-<a href="https://www.w3schools.com/css/css_pseudo_classes.asp" target="_blank">hier te lezen op W3Schools</a>. Zo'n
+[hier te lezen op W3Schools](https://www.w3schools.com/css/css_pseudo_classes.asp). Zo'n
 pseudo-class geef je in de CSS met een `:` aan. In het volgende voorbeeld zie je hoe je de kleur van de `<a>` kan
 veranderen wanneer je muisaanwijzer erop staat:
 
@@ -236,27 +232,26 @@ a:active {
 }
 ```
 
-<br><br> **Klaar met het hoofdstuk over navigatie?** <br> <a href="minipuzzels/navigatie/" target="_blank">Klik dan
-hier om naar de minipuzzels over navigatie te gaan.</a>
+<br><br> **Klaar met het hoofdstuk over navigatie?** <br> [Klik dan hier om naar de minipuzzels over navigatie te gaan.](minipuzzels/navigatie/)
 
 <br><hr><br>
 
 # Minipuzzels - Flexbox
 
-<a href="minipuzzels/flexbox/" target="_blank">Klik hier om naar de minipuzzels over Flexbox te gaan.</a>
+[Klik hier om naar de minipuzzels over Flexbox te gaan.](minipuzzels/flexbox/)
 
 <br><hr><br>
 
 # Minipuzzels - Navigatie
 
-<a href="minipuzzels/navigatie/" target="_blank">Klik hier om naar de minipuzzels over navigatie te gaan.</a>
+[Klik hier om naar de minipuzzels over navigatie te gaan.](minipuzzels/navigatie/)
 
 <br><hr><br>
 
 # Opdracht: Foodblog
 
 Download de startcode als je dat nog niet had gedaan
-(<a href="https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865" target="_blank">zie Brightspace</a>) en bouw
+([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)) en bouw
 vervolgens het volgende ontwerp na _(klik op de afbeelding om te vergroten)_.
 
 Let op, het gaat om twee pagina's: de homepage met recepten en de detailpagina van een recept. Wanneer er op de
@@ -288,7 +283,7 @@ Voor deze opdracht heb je de volgende kleurcodes nodig:
 
 Als je wat extra uitdaging wilt, dan kan je ook onderstaande wireframe nabouwen. Hierin zitten extra elementen die je
 door zelfstudie moet zien te achterhalen. De afbeeldingen zijn te vinden in de startcode
-(<a href="https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865" target="_blank">zie Brightspace</a>). Je mag
+([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)). Je mag
 de startcode gebruiken, maar je mag ook alles zelf maken.
 
 Let op, ook bij deze opdracht gaat het om twee pagina's: de homepage met recepten en de detailpagina van een recept. De
