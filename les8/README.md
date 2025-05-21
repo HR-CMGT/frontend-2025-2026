@@ -18,6 +18,5 @@ Je gaat nu je eindproduct afronden. Dit is een website over een fictief product.
 
 ## Inleveren
 
-Maak een screencast en ga naar
-[Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/topics/464210) voor de
+Maak een screencast en ga naar [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/topics/464210) voor de
 deadline om daar je screencast in te leveren.

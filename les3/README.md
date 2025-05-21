@@ -126,7 +126,8 @@ klik rechts van `display: flex` op het Flexbox-knopje. Voor meer info, bekijk de
 - [Video: CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
 - [Video waarin flex-grow, flex-shrink en flex-basis wordt uitgelegd met voorbeelden](https://www.youtube.com/watch?v=CFgeJq4l1YM)
 
-<br><br> **Klaar met het hoofdstuk over Flexbox?** <br> [Klik dan hier om naar de minipuzzels over Flexbox te gaan.](minipuzzels/flexbox/)
+<br><br> **Klaar met het hoofdstuk over Flexbox?** <br>
+[Klik dan hier om naar de minipuzzels over Flexbox te gaan.](minipuzzels/flexbox/)
 
 <br><hr><br>
 
@@ -165,8 +166,8 @@ klikt. Hiervoor heb je twee opties die hieronder worden toegelicht.
 **Linken binnen dezelfde pagina** <br> Het is mogelijk om te linken naar een onderdeel op dezelfde pagina. Dus stel, er
 staan drie secties op jouw pagina, dan zou je in de navigatie per sectie een `<a>` in de `<nav>` kunnen plaatsen. Dit
 is vooral handig bij hele lange pagina's, zodat je gemakkelijk van de ene sectie naar de andere kan klikken. Een
-voorbeeld van de code hiervoor vind je terug in de
-[Cheatsheet HTML & CSS](../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf) op pagina 2.
+voorbeeld van de code hiervoor vind je terug in de [Cheatsheet HTML & CSS](../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf)
+op pagina 2.
 
 <br>
 
@@ -214,9 +215,9 @@ je afhankelijk van de situatie de `<a>` een andere styling kan geven. Het gaat o
 
 Bovenstaande states kun je in de CSS selecteren door het gebruik van zogenaamde _pseudo-classes_. Deze classes hoef je
 niet handmatig in de HTML in te voeren, maar krijgt de HTML-tag vanzelf. Meer info is
-[hier te lezen op W3Schools](https://www.w3schools.com/css/css_pseudo_classes.asp). Zo'n
-pseudo-class geef je in de CSS met een `:` aan. In het volgende voorbeeld zie je hoe je de kleur van de `<a>` kan
-veranderen wanneer je muisaanwijzer erop staat:
+[hier te lezen op W3Schools](https://www.w3schools.com/css/css_pseudo_classes.asp). Zo'n pseudo-class geef je in de CSS
+met een `:` aan. In het volgende voorbeeld zie je hoe je de kleur van de `<a>` kan veranderen wanneer je muisaanwijzer
+erop staat:
 
 ```css
 a:visited {
@@ -232,7 +233,8 @@ a:active {
 }
 ```
 
-<br><br> **Klaar met het hoofdstuk over navigatie?** <br> [Klik dan hier om naar de minipuzzels over navigatie te gaan.](minipuzzels/navigatie/)
+<br><br> **Klaar met het hoofdstuk over navigatie?** <br>
+[Klik dan hier om naar de minipuzzels over navigatie te gaan.](minipuzzels/navigatie/)
 
 <br><hr><br>
 
@@ -251,8 +253,8 @@ a:active {
 # Opdracht: Foodblog
 
 Download de startcode als je dat nog niet had gedaan
-([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)) en bouw
-vervolgens het volgende ontwerp na _(klik op de afbeelding om te vergroten)_.
+([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)) en bouw vervolgens het volgende
+ontwerp na _(klik op de afbeelding om te vergroten)_.
 
 Let op, het gaat om twee pagina's: de homepage met recepten en de detailpagina van een recept. Wanneer er op de
 homepage wordt geklikt op **Bekijk recept** moet er dus naar de detailpagina worden genavigeerd. <br> De
@@ -283,8 +285,8 @@ Voor deze opdracht heb je de volgende kleurcodes nodig:
 
 Als je wat extra uitdaging wilt, dan kan je ook onderstaande wireframe nabouwen. Hierin zitten extra elementen die je
 door zelfstudie moet zien te achterhalen. De afbeeldingen zijn te vinden in de startcode
-([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)). Je mag
-de startcode gebruiken, maar je mag ook alles zelf maken.
+([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)). Je mag de startcode gebruiken,
+maar je mag ook alles zelf maken.
 
 Let op, ook bij deze opdracht gaat het om twee pagina's: de homepage met recepten en de detailpagina van een recept. De
 detailpagina is dezelfde als bij de reguliere opdracht, maar hij staat ook hieronder nog weergegeven. Wanneer er op de
