@@ -8,8 +8,8 @@
 - [Navigatie](#navigatie)
   - [HTML voor de navigatie](#html-voor-de-navigatie)
   - [CSS voor de navigatie](#css-voor-de-navigatie)
-- [Minipuzzels - Navigatie](#minipuzzels---navigatie)
-  - [Google Fonts](#google-fonts)
+  - [Minipuzzels - Navigatie](#minipuzzels---navigatie)
+- [Google Fonts](#google-fonts)
 - [De tussenopdracht](#de-tussenopdracht)
   - [Stap 1: Nieuw project aanmaken](#stap-1-nieuw-project-aanmaken)
   - [Stap 2: Wireframe nabouwen](#stap-2-wireframe-nabouwen)
@@ -133,13 +133,13 @@ a:active {
 
 <br><hr><br>
 
-# Minipuzzels - Navigatie
+## Minipuzzels - Navigatie
 
 [Klik hier om naar de minipuzzels over navigatie te gaan.](minipuzzels/navigatie/)
 
 <br><hr><br>
 
-## Google Fonts
+# Google Fonts
 
 Doorloop de volgende stappen om een font van Google te gebruiken:
 
