@@ -22,7 +22,7 @@ Voltooi onderstaande minipuzzels. Voor iedere oefening is er al code klaargezet 
 ## Belangrijke informatie!
 
 - Voor deze oefeningen moet je zowel HTML als CSS schrijven;
-- Op de linkjes waar een handje staat wordt de hover-state weergeven, die je ook moet maken in de CSS;
+- Van de linkjes waar een handje op staat zie je de hover state, die je dus ook met CSS moet maken;
 - Voor deze oefeningen mag je iedere `<a>` op `href="#"` instellen;
 - Je hebt voor iedere mini-oefening in de CSS de optie `text-decoration` nodig.
 

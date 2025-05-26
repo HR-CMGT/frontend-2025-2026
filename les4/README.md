@@ -3,9 +3,12 @@
 **Inhoudsopgave**
 
 - [Les 4](#les-4)
-  - Bespreken foodblog les 3
-  - Flex Game
-  - [Minipuzzels - Nested Flexbox](#minipuzzels---nested-flexbox)
+- [Flexbox Froggy 🐸](#flexbox-froggy-)
+- [Minipuzzels - Nested Flexbox](#minipuzzels---nested-flexbox)
+- [Navigatie](#navigatie)
+  - [HTML voor de navigatie](#html-voor-de-navigatie)
+  - [CSS voor de navigatie](#css-voor-de-navigatie)
+- [Minipuzzels - Navigatie](#minipuzzels---navigatie)
   - [Google Fonts](#google-fonts)
 - [De tussenopdracht](#de-tussenopdracht)
   - [Stap 1: Nieuw project aanmaken](#stap-1-nieuw-project-aanmaken)
@@ -14,15 +17,125 @@
 
 <br><hr><br>
 
-## Flexbox Froggy 🐸
+# Flexbox Froggy 🐸
 
 [Flex je skills met de flexbox froggy game](https://flexboxfroggy.com)
 
 <br><hr><br>
 
-## Minipuzzels - Nested Flexbox
+# Minipuzzels - Nested Flexbox
 
 [Klik hier om naar de minipuzzels over nested Flexbox te gaan.](minipuzzels/nested-flexbox/)
+
+<br><hr><br>
+
+# Navigatie
+
+In de vorige lessen heb je al vaker met `<nav>` gewerkt en in deze les duiken we daar dieper op in. Je weet al dat je
+in de `<nav>` een `<a>` invoert voor ieder linkje die je wilt tonen. Maar hoe stel je dit linkje correct in? En hoe kan
+je deze vormgeven? Dat leer je in deze les.
+
+<br>
+
+## HTML voor de navigatie
+
+Allereerst: wat is een `<a>` eigenlijk? Het doel van deze HTML-tag is dat de gebruiker erop kan klikken en dat die naar
+een ander stukje content wordt gebracht. Dus stel, je bent op een webshop en je wilt alle producten bekijken, dan klik
+je in het hoofdmenu (wat dus een `<nav>` is) op het linkje _Producten_ (wat dus een `<a>` is), zodat je naar die
+betreffende pagina wordt gebracht.
+
+De HTML van een navigatie ziet er doorgaans ongeveer als volgt uit:
+
+```html
+<nav>
+  <a href="#">Link 1</a>
+  <a href="#">Link 2</a>
+  <a href="#">Link 3</a>
+</nav>
+```
+
+Je begint met de `<nav>` met daarin één of meerdere `<a>`'s. Tot zover niets nieuws, dit heb je al meerdere malen
+gemaakt. Je ziet bij het attribuut `href` nu een `#` staan in dit voorbeeld. Op die plek komt de daadwerkelijke link te
+staan waarnaar genavigeerd moet worden. Dus waar de gebruiker naartoe moet worden gestuurd wanneer die op de `<a>`
+klikt. Hiervoor heb je twee opties die hieronder worden toegelicht.
+
+<br>
+
+**Linken binnen dezelfde pagina** <br> Het is mogelijk om te linken naar een onderdeel op dezelfde pagina. Dus stel, er
+staan drie secties op jouw pagina, dan zou je in de navigatie per sectie een `<a>` in de `<nav>` kunnen plaatsen. Dit
+is vooral handig bij hele lange pagina's, zodat je gemakkelijk van de ene sectie naar de andere kan klikken. Een
+voorbeeld van de code hiervoor vind je terug in de [Cheatsheet HTML & CSS](../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf)
+op pagina 2.
+
+<br>
+
+**Linken naar een andere pagina** <br> Het is ook mogelijk om te linken naar een andere pagina. Dit kan een pagina van
+dezelfde website zijn, maar ook van een andere. De meeste websites bevatten meerdere pagina's. Zo heb je bijvoorbeeld
+vaak een homepage, een over-ons-pagina en een contactpagina. De navigatie voor een website met deze drie pagina's zou
+er als volgt uit kunnen zien:
+
+```html
+<nav>
+  <a href="index.html">Home</a>
+  <a href="over-ons.html">Over ons</a>
+  <a href="contact.html">Contact</a>
+</nav>
+```
+
+Hier zie je bijvoorbeeld dat bij het linkje naar de contactpagina de `href` staat ingesteld op `contact.html`. Dit
+betekent dat er in jouw project ook een bestand moet staan die `contact.html` heet en die wordt dan geopend wanneer je
+op het linkje klikt.
+
+Bij het linkje voor de homepage zie je in de `href` overigens `index.html` staan, hierin staat namelijk de homepage.
+
+Tot slot, wanneer je een link wilt leggen naar een andere website, dan moet je de volledige URL invoeren, dus vanaf
+`https://`. Ook is het aan te raden om deze _externe link_ in een nieuw tabje te openen, zodat jouw eigen website ook
+nog in een tabje open blijft staan. Dit stel je in met het attribuut `target` en de waarde moet dan `_blank` zijn. Dus
+stel, je wilt een linkje maken die naar de website van CMGT gaat, dan zou dat er als volgt uitzien:
+
+```html
+<a href="https://cmgt.hr.nl/" target="_blank">Google</a>
+```
+
+<br>
+
+## CSS voor de navigatie
+
+Het vormgeven van de `<nav>` werkt zoals met iedere andere HTML-tag, maar de `<a>` heeft enkele uitzonderingen die hier
+worden uitgelegd. Het is namelijk belangrijk om te weten dat een `<a>` verschillende _states_ heeft. Dit betekent dat
+je afhankelijk van de situatie de `<a>` een andere styling kan geven. Het gaat om de volgende states:
+
+- Standaard: de normale state wanneer geen andere van toepassing is;
+- hover: wanneer de muisaanwijzer op de link is geplaatst (zonder te klikken);
+- active: tijdens het klikken op de link;
+- visited: wanneer de link al eerder aangeklikt is;
+- focus: wanneer de focus op het linkje staat, meestal doordat je met de tabtoets door de pagina heen gaat.
+
+Bovenstaande states kun je in de CSS selecteren door het gebruik van zogenaamde _pseudo-classes_. Deze classes hoef je
+niet handmatig in de HTML in te voeren, maar krijgt de HTML-tag vanzelf. Meer info is
+[hier te lezen op W3Schools](https://www.w3schools.com/css/css_pseudo_classes.asp). Zo'n pseudo-class geef je in de CSS
+met een `:` aan. In het volgende voorbeeld zie je hoe je de kleur van de `<a>` kan veranderen wanneer je muisaanwijzer
+erop staat:
+
+```css
+a:visited {
+  color: red;
+}
+
+a:hover {
+  color: blue;
+}
+
+a:active {
+  color: purple;
+}
+```
+
+<br><hr><br>
+
+# Minipuzzels - Navigatie
+
+[Klik hier om naar de minipuzzels over navigatie te gaan.](minipuzzels/navigatie/)
 
 <br><hr><br>
 
