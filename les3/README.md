@@ -179,7 +179,7 @@ prompt uit en maak de quiz:
 ### HTML
 
 ```
-Creëer een interactieve quiz over HTML voor beginners met 10 vragen op basis van de code. De quiz moet uitsluitend gaan over HTML-semantiek (zoals gebruik van semantische tags zoals header, section, nav, article, etc.) van de homepage en detail page van de foodblog. Geen vragen over toegankelijkheid (aria-attributen), CSS of JavaScript. Wissel de volgende type vragen evenredig af:
+Creëer een interactieve quiz over HTML voor beginners met 10 vragen op basis van de code. De quiz moet uitsluitend gaan over HTML-semantiek (zoals gebruik van semantische tags zoals header, section, nav, article, etc.) van de homepage en detailpagina van de foodblog. Geen vragen over toegankelijkheid (aria-attributen), CSS of JavaScript. Wissel de volgende type vragen evenredig af:
 
 - Jij stelt een vraag en ik moet het juiste stukje code selecteren, waarna ik het woord "check" stuur en jij moet checken of ik het juiste stukje code heb geselecteerd (laat hierbij nooit een code snippet zien).
 - Open vragen over semantische HTML-elementen en hun doel (laat hierbij altijd de code snippet zien waar de vraag over gaat)
@@ -215,6 +215,10 @@ Stel nu de eerste vraag.
 <br><hr><br>
 
 # Opdracht 2: Foodblog
+
+In de vorige opdracht heb je de foodblog gegenereert en geleerd waar AI toe in staat is, maar ook dat het belangrijk is
+dat je zelf weet wat er zich onder de motorkap afspeelt. Daarom ga je de foodblog nogmaals maken, maar dan volledig met
+de hand, zodat je goed leert hoe je o.a. Flexbox moet toepassen.
 
 Download de startcode als je dat nog niet had gedaan
 ([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)) en bouw vervolgens het volgende
