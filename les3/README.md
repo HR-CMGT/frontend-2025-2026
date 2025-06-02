@@ -165,7 +165,7 @@ webpagina's.
 
 4. **Experimenteer met prompts**: Beschrijf wat je wilt bereiken en kijk wat de AI genereert. Probeer verschillende
    benaderingen om te zien wat het beste werkt. Niet het gewenste resultaat? Schrijf meerdere prompts om het bij te
-   sturen of begin simpelweg helemaal opnieuwe met een andere benadering. Experimenteer er vooral op los!
+   sturen of begin simpelweg helemaal opnieuw met een andere benadering. Experimenteer er vooral op los!
 
 ## Quiz
 
@@ -173,8 +173,8 @@ Wanneer je tevreden bent met het gegenereerde resultaat is het tijd om te achter
 begrijpt. AI kan je zien als hulpje die je helpt met code sneller schrijven, maar jij, als expert, moet altijd weten
 wat er zich onder de motorkap afspeelt.
 
-Je gaat een quiz maken die puur over de HTML gaat en daarna over de CSS. Stel copilot in op `Ask` en voer de volgende
-prompt uit en maak de quiz:
+Je gaat twee quizzen over de HTML en over CSS. Open in copilot een nieuwe chat, stel deze in op `Ask` en voer de
+volgende prompt uit en maak de quiz.
 
 ### HTML
 
