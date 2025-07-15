@@ -52,8 +52,8 @@ Voer de volgende stappen uit:
 4. Je krijgt nu een lijst met _errors_ en _warnings_ en _info_ (zie screenshot hieronder). _Errors_ moet je altijd
    oplossen, _warnings_ zijn vaak een goed idee om op te lossen en _info_ is over het algemeen puur ter informatie.
 5. Lees de meldingen aandachtig door en probeer ze op te lossen in de code. Begrijp je een melding niet? Kopieer de
-   melding dan en plak deze in Google. De kans is zeer groot dat je dan het antwoord zult vinden. Ga door tot alle
-   meldingen zijn opgelost.
+   melding dan en plak deze in Copilot en vraag om een uitleg. Laat Copilot het niet domweg oplossen, daar leer jij
+   niets van.
 
 <img src="./images/W3C-validator.png" alt="W3C validator" title="W3C validator" width="1012">
 

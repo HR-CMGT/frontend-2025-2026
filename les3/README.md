@@ -1,6 +1,7 @@
 # Les 3
 
 - [Les 3](#les-3)
+  - [Leeruitkomsten](#leeruitkomsten)
 - [Flexbox](#flexbox)
   - [Parent/child](#parentchild)
   - [Flexbox in een Flexbox](#flexbox-in-een-flexbox)
@@ -16,6 +17,21 @@
     - [CSS](#css)
 - [Opdracht 2: Foodblog](#opdracht-2-foodblog)
   - [Advanced opdracht](#advanced-opdracht)
+
+<br><hr><br>
+
+## Leeruitkomsten
+
+In deze les werk je aan de volgende leeruitkomst:
+
+| Leeruitkomst                                                                                                            | Toelichting                                                      |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS. | In deze les leer je hoe je met Flexbox een layout kunt opbouwen. |
+
+<br>
+
+Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
+juiste link invoeren.
 
 <br><hr><br>
 

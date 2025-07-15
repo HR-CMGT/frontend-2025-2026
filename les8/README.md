@@ -9,12 +9,12 @@ Je gaat nu je eindproduct afronden. Dit is een website over een fictief product.
   afbeeldingen_. Je kan eventueel ChatGPT gebruiken om een _fake product_ voor je te bedenken en bijbehorende teksten
   te genereren.
 - Stel een huisstijlkleur vast. Dit wordt de basiskleur van je buttons en accent elementen.
-- Kies een google font. Je mag een apart font voor headers en body tekst gebruiken.
+- Kies een Google Font. Je mag een apart font voor headers en body tekst gebruiken.
 
 ## Wireframe nabouwen
 
-- Het is de bedoeling dat je alleen de **_stof uit de voorgaande lessen_** gebruikt om je gekozen wireframe om te
-  zetten naar HTML en CSS. Je schrijft alle code zelf.
+⚠️ Het is de bedoeling dat je alleen de **_stof uit de voorgaande lessen_** gebruikt om je gekozen wireframe om te
+zetten naar HTML en CSS. <br> ⚠️ Je schrijft alle code zelf.
 
 ## Inleveren
 

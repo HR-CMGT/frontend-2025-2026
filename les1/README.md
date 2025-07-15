@@ -5,6 +5,7 @@
 **Inhoudsopgave**
 
 - [Les 1](#les-1)
+  - [Leeruitkomsten](#leeruitkomsten)
   - [Opdracht 1 - Werkomgeving gereed maken](#opdracht-1---werkomgeving-gereed-maken)
     - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
     - [Opdracht 1b - Extensie Live Server installeren](#opdracht-1b---extensie-live-server-installeren)
@@ -16,6 +17,21 @@
   - [Opdracht 4 - Basisstructuur HTML](#opdracht-4---basisstructuur-html)
   - [Opdracht 5 - CSS](#opdracht-5---css)
   - [Opdracht 6 - Images](#opdracht-6---images)
+
+<br><hr><br>
+
+## Leeruitkomsten
+
+In deze les werk je aan de volgende leeruitkomst:
+
+| Leeruitkomst                                                                                                        | Toelichting                                            |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1. Ik kan de relatie tussen HTML en CSS uitleggen en kan hiermee een semantische en toegankelijke webpagina bouwen. | In deze les leer je de basisbeginselen van HTML & CSS. |
+
+<br>
+
+Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
+juiste link invoeren.
 
 <br><hr><br>
 

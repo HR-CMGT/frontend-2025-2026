@@ -7,6 +7,7 @@
 **Inhoudsopgave**
 
 - [Les 5](#les-5)
+  - [Leeruitkomsten](#leeruitkomsten)
 - [Responsive design](#responsive-design)
   - [Meta viewport](#meta-viewport)
   - [Absolute en relatieve units](#absolute-en-relatieve-units)
@@ -26,6 +27,14 @@
 - [Opdracht: Foodblog responsive](#opdracht-foodblog-responsive)
   - [Eindresultaat mobile](#eindresultaat-mobile)
   - [Eindresultaat desktop](#eindresultaat-desktop)
+
+<br><hr><br>
+
+## Leeruitkomsten
+
+In deze les werk je aan de volgende leeruitkomst:
+
+2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS.
 
 <br><br><br>
 
@@ -63,7 +72,7 @@ De vraag die je jezelf iedere keer weer moet stellen is:
 
 > Op basis van **_wat_** moet ik de grootte bepalen?
 
-- Stel je wilt de `width` van een `section` instellen. Moet deze dan relatief zijn aan de parent (`%`) of aan het hele
+- Stel, je wilt de `width` van een `section` instellen. Moet deze dan relatief zijn aan de parent (`%`) of aan het hele
   scherm (`vw`)?
 - Of je wilt de `height` van de `header` instellen. Moet deze dan relatief zijn aan de hoogte van het scherm (`vh`) of
   moet deze altijd hetzelfde zijn op ieder scherm (`px`)?

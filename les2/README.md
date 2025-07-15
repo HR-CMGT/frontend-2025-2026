@@ -5,6 +5,7 @@
 **Inhoudsopgave**
 
 - [Les 2](#les-2)
+  - [Leeruitkomsten](#leeruitkomsten)
 - [Semantische tags](#semantische-tags)
   - [Waarom semantische tags?](#waarom-semantische-tags)
   - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
@@ -26,6 +27,22 @@
   - [Opdracht 4 - CSS: absolute \& relatieve units](#opdracht-4---css-absolute--relatieve-units)
   - [Opdracht 5a](#opdracht-5a)
   - [Opdracht 5b - Advanced](#opdracht-5b---advanced)
+
+<br><hr><br>
+
+## Leeruitkomsten
+
+In deze les werk je aan de volgende leeruitkomsten:
+
+| Leeruitkomst                                                                                                            | Toelichting                                                                                                                                                            |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Ik kan de relatie tussen HTML en CSS uitleggen en kan hiermee een semantische en toegankelijke webpagina bouwen.     | In deze les leer je wat semantiek is in HTML en hoe je dit moet toepassen. Ook leer je welke selectors er in CSS beschikbaar zijn om HTML-elementen mee te selecteren. |
+| 2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS. | In deze les leer je over absolute en relatieve units.                                                                                                                  |
+
+<br>
+
+Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
+juiste link invoeren.
 
 <br><hr><br>
 
@@ -210,7 +227,7 @@ De vraag die je jezelf iedere keer weer moet stellen is:
 
 > Op basis van **_wat_** moet ik de grootte bepalen?
 
-- , je wilt de `width` van een `section` instellen. Moet deze dan relatief zijn aan de parent (`%`) of aan het hele
+- Stel, je wilt de `width` van een `section` instellen. Moet deze dan relatief zijn aan de parent (`%`) of aan het hele
   scherm (`vw`)?
 - Of je wilt de `height` van de `header` instellen. Moet deze dan relatief zijn aan de hoogte van het scherm (`vh`) of
   moet deze altijd hetzelfde zijn op ieder scherm (`px`)?

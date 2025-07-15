@@ -3,6 +3,7 @@
 **Inhoudsopgave**
 
 - [Les 4](#les-4)
+  - [Leeruitkomsten](#leeruitkomsten)
 - [Flexbox Froggy 🐸](#flexbox-froggy-)
 - [Minipuzzels - Nested Flexbox](#minipuzzels---nested-flexbox)
 - [Navigatie](#navigatie)
@@ -14,6 +15,15 @@
   - [Stap 1: Nieuw project aanmaken](#stap-1-nieuw-project-aanmaken)
   - [Stap 2: Wireframe nabouwen](#stap-2-wireframe-nabouwen)
     - [Van wireframe naar ontwerp](#van-wireframe-naar-ontwerp)
+
+<br><hr><br>
+
+## Leeruitkomsten
+
+In deze les werk je aan de volgende leeruitkomst:
+
+1. Ik kan de relatie tussen HTML en CSS uitleggen en kan hiermee een semantische en toegankelijke webpagina bouwen.
+2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS.
 
 <br><hr><br>
 
@@ -183,6 +193,7 @@ De opdracht is om onderstaande wireframe na te bouwen, **_zoals omschreven in de
   [coolors](https://coolors.co/palettes/palettes) of [Realtime Colors](https://www.realtimecolors.com/).
 - Kies bijpassende fonts. Tip: gebruik een fancy font voor grote kopteksten, en een prettig leesbaar font voor
   bodyteksten.
+- ⚠️ Gebruik voor deze opdracht geen copilot om code te genereren, maar vragen stellen mag altijd!
 
 <br>
 
