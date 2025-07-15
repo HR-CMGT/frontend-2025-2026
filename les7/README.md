@@ -3,7 +3,7 @@
 **Inhoudsopgave**
 
 - [Les 7](#les-7)
-  - [Leeruitkomsten](#leeruitkomsten)
+  - [Leerdoelen](#leerdoelen)
 - [What CSS can do](#what-css-can-do)
 - [Transition](#transition)
 - [Filter, transform en 3D-effect](#filter-transform-en-3d-effect)
@@ -26,18 +26,18 @@
 
 <br><br><br>
 
-## Leeruitkomsten
+## Leerdoelen
 
-In deze les ligt de focus op de volgende leeruitkomst:
+In deze les ligt de focus op het volgende leerdoel:
 
-| Leeruitkomst                                                                                   | Toelichting                                                                                     |
+| Leerdoel                                                                                       | Toelichting                                                                                     |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | 3. Ik kan animaties bouwen en uitleggen waarom dit een aanvulling is op de gebruikerservaring. | In deze les leer je hoe je met transitions en animations de gebruikerservaring kunt verbeteren. |
 
 <br>
 
-Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
-juiste link invoeren.
+Alle leerdoelen zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO: juiste
+link invoeren.
 
 <br><br><br>
 

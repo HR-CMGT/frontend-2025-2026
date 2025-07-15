@@ -1,7 +1,7 @@
 # Les 3
 
 - [Les 3](#les-3)
-  - [Leeruitkomsten](#leeruitkomsten)
+  - [Leerdoelen](#leerdoelen)
 - [Flexbox](#flexbox)
   - [Parent/child](#parentchild)
   - [Flexbox in een Flexbox](#flexbox-in-een-flexbox)
@@ -20,18 +20,18 @@
 
 <br><br><br>
 
-## Leeruitkomsten
+## Leerdoelen
 
-In deze les ligt de focus op de volgende leeruitkomst:
+In deze les ligt de focus op het volgende leerdoel:
 
-| Leeruitkomst                                                                                                            | Toelichting                                                    |
+| Leerdoel                                                                                                                | Toelichting                                                    |
 | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | 2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS. | In deze les leer je hoe je met Flexbox een layout kunt bouwen. |
 
 <br>
 
-Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
-juiste link invoeren.
+Alle leerdoelen zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO: juiste
+link invoeren.
 
 <br><br><br>
 

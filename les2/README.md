@@ -5,7 +5,7 @@
 **Inhoudsopgave**
 
 - [Les 2](#les-2)
-  - [Leeruitkomsten](#leeruitkomsten)
+  - [Leerdoelen](#leerdoelen)
 - [Semantische tags](#semantische-tags)
   - [Waarom semantische tags?](#waarom-semantische-tags)
   - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
@@ -30,19 +30,19 @@
 
 <br><br><br>
 
-## Leeruitkomsten
+## Leerdoelen
 
-In deze les ligt de focus op de volgende leeruitkomsten:
+In deze les ligt de focus op de volgende leerdoelen:
 
-| Leeruitkomst                                                                                                            | Toelichting                                                                                                                                                            |
+| Leerdoel                                                                                                                | Toelichting                                                                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1. Ik kan de relatie tussen HTML en CSS uitleggen en kan hiermee een semantische en toegankelijke webpagina bouwen.     | In deze les leer je wat semantiek is in HTML en hoe je dit moet toepassen. Ook leer je welke selectors er in CSS beschikbaar zijn om HTML-elementen mee te selecteren. |
 | 2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS. | In deze les leer je over absolute en relatieve units.                                                                                                                  |
 
 <br>
 
-Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
-juiste link invoeren.
+Alle leerdoelen zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO: juiste
+link invoeren.
 
 <br><br><br>
 

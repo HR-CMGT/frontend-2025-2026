@@ -7,7 +7,7 @@
 **Inhoudsopgave**
 
 - [Les 5](#les-5)
-  - [Leeruitkomsten](#leeruitkomsten)
+  - [Leerdoelen](#leerdoelen)
 - [Responsive design](#responsive-design)
   - [Meta viewport](#meta-viewport)
   - [Absolute en relatieve units](#absolute-en-relatieve-units)
@@ -30,18 +30,18 @@
 
 <br><br><br>
 
-## Leeruitkomsten
+## Leerdoelen
 
-In deze les ligt de focus op de volgende leeruitkomst:
+In deze les ligt de focus op het volgende leerdoel:
 
-| Leeruitkomst                                                                                                            | Toelichting                                                                 |
+| Leerdoel                                                                                                                | Toelichting                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | 2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS. | In deze les leer je wat ervoor nodig is om een website responsive te maken. |
 
 <br>
 
-Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
-juiste link invoeren.
+Alle leerdoelen zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO: juiste
+link invoeren.
 
 <br><br><br>
 

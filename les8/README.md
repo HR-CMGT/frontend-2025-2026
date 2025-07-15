@@ -3,7 +3,7 @@
 **Inhoudsopgave**
 
 - [Les 8](#les-8)
-  - [Leeruitkomsten](#leeruitkomsten)
+  - [Leerdoelen](#leerdoelen)
   - [Eindopdracht](#eindopdracht)
   - [Voorbereiding](#voorbereiding)
   - [Wireframe nabouwen](#wireframe-nabouwen)
@@ -11,18 +11,18 @@
 
 <br><br><br>
 
-## Leeruitkomsten
+## Leerdoelen
 
-In deze les ligt de focus op de volgende leeruitkomst:
+In deze les ligt de focus op het volgende leerdoel:
 
-| Leeruitkomst                                                                                                                            | Toelichting                   |
+| Leerdoel                                                                                                                                | Toelichting                   |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | 4. Ik kan uitleggen hoe AI-tools het leerproces kunnen ondersteunen en kan de kwaliteit van de gegenereerde output kritisch beoordelen. | In deze les leer je ... @TODO |
 
 <br>
 
-Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
-juiste link invoeren.
+Alle leerdoelen zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO: juiste
+link invoeren.
 
 <br><br><br>
 

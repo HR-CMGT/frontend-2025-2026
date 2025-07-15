@@ -3,7 +3,7 @@
 **Inhoudsopgave**
 
 - [Les 4](#les-4)
-  - [Leeruitkomsten](#leeruitkomsten)
+  - [Leerdoelen](#leerdoelen)
 - [Flexbox Froggy 🐸](#flexbox-froggy-)
 - [Minipuzzels - Nested Flexbox](#minipuzzels---nested-flexbox)
 - [Navigatie](#navigatie)
@@ -18,19 +18,19 @@
 
 <br><br><br>
 
-## Leeruitkomsten
+## Leerdoelen
 
-In deze les ligt de focus op de volgende leeruitkomsten:
+In deze les ligt de focus op de volgende leerdoelen:
 
-| Leeruitkomst                                                                                                            | Toelichting                                                                                                |
+| Leerdoel                                                                                                                | Toelichting                                                                                                |
 | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | 1. Ik kan de relatie tussen HTML en CSS uitleggen en kan hiermee een semantische en toegankelijke webpagina bouwen.     | In deze les leer je wat de semantische tags zijn voor een navigatie en hoe je deze met CSS kunt vormgeven. |
 | 2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS. | In deze les leer je wat nested Flexbox is en hoe je hiermee complexere layouts kunt bouwen.                |
 
 <br>
 
-Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
-juiste link invoeren.
+Alle leerdoelen zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO: juiste
+link invoeren.
 
 <br><br><br>
 
