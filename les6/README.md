@@ -393,8 +393,8 @@ Voor de lesopdracht van vandaag moet je een nieuw project opzetten, anders kan j
 Voer de volgende stappen uit:
 
 1. Maak een nieuw project aan en noem die `forms`, zoals omschreven in
-   [opdracht 1c van les 1](../les1/#opdracht-1c---eerste-project-aanmaken). Zet daarin de bestandsstructuur neer, zoals
-   omschreven in [opdracht 1d uit les 1](../les1/#opdracht-1d---bestandsstructuur-html-en-css).
+   [opdracht 1e van les 1](../les1/#opdracht-1d---eerste-project-aanmaken). Zet daarin de bestandsstructuur neer, zoals
+   omschreven in [opdracht 1e uit les 1](../les1/#opdracht-1e---bestandsstructuur-html-en-css).
 2. Maak vervolgens in de nieuwe map `forms` nog een bestand aan met de naam `contact.html`. Kopieer de volledige inhoud
    van `index.html` en plak deze in `contact.html`. Dubbelcheck of je nu in beide bestanden dezelfde link hebt naar de
    `style.css`, zodat je dezelfde stijl op beide pagina's kan gebruiken.

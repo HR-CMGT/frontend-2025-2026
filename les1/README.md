@@ -9,9 +9,10 @@
   - [Opdracht 1 - Werkomgeving gereed maken](#opdracht-1---werkomgeving-gereed-maken)
     - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
     - [Opdracht 1b - Extensie Live Server installeren](#opdracht-1b---extensie-live-server-installeren)
-    - [Opdracht 1c - Eerste project aanmaken](#opdracht-1c---eerste-project-aanmaken)
-    - [Opdracht 1d - Bestandsstructuur HTML en CSS](#opdracht-1d---bestandsstructuur-html-en-css)
-    - [Opdracht 1e - Code testen](#opdracht-1e---code-testen)
+    - [Opdracht 1c - Copilot configureren](#opdracht-1c---copilot-configureren)
+    - [opdracht 1e - Eerste project aanmaken](#opdracht-1e---eerste-project-aanmaken)
+    - [Opdracht 1e - Bestandsstructuur HTML en CSS](#opdracht-1e---bestandsstructuur-html-en-css)
+    - [Opdracht 1f - Code testen](#opdracht-1f---code-testen)
   - [Opdracht 2 - Minipuzzels padding \& margin](#opdracht-2---minipuzzels-padding--margin)
   - [Opdracht 3 - HTML](#opdracht-3---html)
   - [Opdracht 4 - Basisstructuur HTML](#opdracht-4---basisstructuur-html)
@@ -56,7 +57,7 @@ eerst `Visual Studio Code` en vervolgens de extensie `Live Server` en maak je je
 
 Om de door jou geschreven code te testen in de browser heb je een extensie nodig die dit mogelijk maakt, genaamd
 `Live Server`. Hiermee worden wijzigingen die je in de code maakt direct zichtbaar in de browser. In deze opdracht ga
-je de extensie alleen installeren, dus nog niet gebruiken, dat komt pas bij [opdracht 1e](#opdracht-1e---code-testen).
+je de extensie alleen installeren, dus nog niet gebruiken, dat komt pas bij [opdracht 1f](#opdracht-1f---code-testen).
 
 1. Wanneer Visual Studio Code geopend is, klik je links op `Extensions` (het icoontje met vier blokjes);
 2. Voer `Live Server` in de zoekbalk in en installeer de extensie (het is degene gemaakt door Ritwick Dey).
@@ -68,7 +69,27 @@ je de extensie alleen installeren, dus nog niet gebruiken, dat komt pas bij [opd
 
 <br><br>
 
-### Opdracht 1c - Eerste project aanmaken
+### Opdracht 1c - Copilot configureren
+
+Copilot is AI-chat ingebouwd in Visual Studio Code. Aan deze chat kan je vragen stellen over jouw code en is het zelfs
+mogelijk om code te genereren. In deze opdracht ga je Copilot configureren. Je hebt hier maar één ding voor nodig: een
+GitHub-account. GitHub is een platform waarop je code kunt plaatsen en delen met anderen. Dit platform ga je gedurende
+je hele schoolcarrière (en waarschijnlijk daarna) gebruiken, dus die ga je meteen aanmaken.
+
+1. Klik op de knop van Copilot (zie screenshot hieronder);
+
+<img  src="./images/Opdracht1c.png" alt="Opdracht 1c" title="Opdracht 1c" width="1012"/>
+
+2. Klik op de knop om in te loggen en maak een GitHub-account aan als je deze nog niet hebt (kies een passende
+   gebruikersnaam, iedereen (waaronder docenten) zullen deze naam zien);
+
+<br>
+
+Copilot is nu geconfigureerd en je kunt het gaan gebruiken. In een latere les leer je er optimaal mee werken.
+
+<br><br>
+
+### opdracht 1e - Eerste project aanmaken
 
 Voor ieder project waaraan je werkt maak je een nieuw project aan in Visual Studio Code. Je gaat nu jouw eerste project
 aanmaken. Dit project kan je gedurende het vak gebruiken om de lesopdrachten te maken. Voor de eindopdracht van dit vak
@@ -84,12 +105,12 @@ maak je (op een later moment) weer een nieuw project aan.
 
 <br><br>
 
-### Opdracht 1d - Bestandsstructuur HTML en CSS
+### Opdracht 1e - Bestandsstructuur HTML en CSS
 
 Wanneer je met HTML en CSS werkt heb je altijd een bepaalde `bestandsstructuur` nodig van bestanden en mappen. Dat ga
 je in deze opdracht aanmaken. Allereerst is het goed om te weten dat je door de lessen heen een aantal hoofdopdrachten
 maakt. Iedere hoofdopdracht maak je in een eigen map in het project dat je bij
-[opdracht 1c](#opdracht-1c---eerste-project-aanmaken) hebt aangemaakt, met daarin weer diezelfde bestandsstructuur die
+[opdracht 1e](#opdracht-1d---eerste-project-aanmaken) hebt aangemaakt, met daarin weer diezelfde bestandsstructuur die
 je in deze opdracht gaat maken. Je gaat nu dus eerst een map voor de les van vandaag maken. Zorg ervoor dat links de
 `Explorer` geopend is (icoontje met de twee A4'tjes). De benodigde knoppen om deze opdracht uit te voeren vind je aan
 de linkerzijde, rechts van de projectnaam.
@@ -107,11 +128,11 @@ de linkerzijde, rechts van de projectnaam.
 
 5. Zorg ervoor dat de `bestandsstructuur` en de code van de `index.html` er als volgt uitzien:
 
-<img  src="./images/Opdracht1.png" alt="Opdracht 1" title="Opdracht 1" width="1012"/>
+<img  src="./images/Opdracht1e.png" alt="Opdracht 1e" title="Opdracht 1e" width="1012"/>
 
 <br><br>
 
-### Opdracht 1e - Code testen
+### Opdracht 1f - Code testen
 
 Het project is gereed en je bent klaar om te beginnen met programmeren! Om de door jou geschreven code te testen heb je
 de extensie `Live Server` nodig (geïnstalleerd in [opdracht 1b](#opdracht-1b---extensie-live-server-installeren)). Met
@@ -128,7 +149,7 @@ de volgende stappen leer je hoe je deze extensie gebruikt.
 
 <br><br><br>
 
-> ⚠️ Opdracht 3 t/m 5 maak je in de bestanden die je bij [opdracht 1d](#opdracht-1d---bestandsstructuur-html-en-css)
+> ⚠️ Opdracht 3 t/m 5 maak je in de bestanden die je bij [opdracht 1e](#opdracht-1e---bestandsstructuur-html-en-css)
 > hebt gemaakt.
 
 <br>

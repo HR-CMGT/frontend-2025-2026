@@ -170,9 +170,9 @@ webpagina's.
 ## Aanpak
 
 1. **Voorbereiding**: Maak in het project `frontend-development` (die je in
-   [les 1](../les1#opdracht-1c---eerste-project-aanmaken) hebt aangemaakt) een nieuwe map genaamd `les3` en daarin weer
+   [les 1](../les1#opdracht-1d---eerste-project-aanmaken) hebt aangemaakt) een nieuwe map genaamd `les3` en daarin weer
    een map genaamd `foodblog-ai`. Zet hierin de
-   [standaard bestandsstructuur](../les1#opdracht-1d---bestandsstructuur-html-en-css) klaar. Deze opdracht bevat 2
+   [standaard bestandsstructuur](../les1#opdracht-1e---bestandsstructuur-html-en-css) klaar. Deze opdracht bevat 2
    pagina's, dus maak ook het bestand `details.html` aan, deze dient als losse pagina.
 
 2. **Doel**: Het ontwerp van [opdracht 2](#opdracht-2-foodblog) zoveel mogelijk nabouwen met AI.

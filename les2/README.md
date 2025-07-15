@@ -289,7 +289,7 @@ de `width` van de `section`, namelijk naar 33%. Het volgende valt op:
 
 Vorige les heb je een project aangemaakt voor dit vak, waarschijnlijk heb je deze `frontend-development` genoemd. Maak
 hierin een nieuwe map aan met de naam `top3` (zonder spaties) en zet de basisstructuur neer, zoals uitgelegd in
-[opdracht 1d van vorige les](../les1/#opdracht-1d---bestandsstructuur-html-en-css). De komende drie opdrachten maak je
+[opdracht 1e van vorige les](../les1/#opdracht-1e---bestandsstructuur-html-en-css). De komende drie opdrachten maak je
 in deze map, dus je breidt jouw webpagina met iedere opdracht uit. <br><br> Bouw vervolgens het volgende ontwerp na
 _(klik op de afbeelding om te vergroten)_. <br> Je mag je eigen top 3 bedenken, maar gebruik verder testteksten. De
 focus ligt in deze opdracht **_niet_** op de inhoud, maar op de code.

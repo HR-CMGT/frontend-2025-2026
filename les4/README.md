@@ -182,9 +182,9 @@ De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden i
 
 Je hebt in les 1 al een project aangemaakt waarin je alle lesopdrachten maakt. Deze map heb je waarschijnlijk
 `frontend-development` genoemd. De tussenopdracht waar je vandaag aan gaat beginnen moet je zien als een los project en
-moet dus ook in een eigen map. Je kan hiervoor [opdracht 1c van les 1](../les1/#opdracht-1c---eerste-project-aanmaken)
+moet dus ook in een eigen map. Je kan hiervoor [opdracht 1e van les 1](../les1/#opdracht-1d---eerste-project-aanmaken)
 volgen, maar noem de map die je aanmaakt dan `frontend-tussenopdracht`. Zet vervolgens de standaard bestandsstructuur
-neer (zoals uitgelegd wordt in [opdracht 1d van les 1](../les1/#opdracht-1d---bestandsstructuur-html-en-css)).
+neer (zoals uitgelegd wordt in [opdracht 1e van les 1](../les1/#opdracht-1e---bestandsstructuur-html-en-css)).
 
 <br>
 
