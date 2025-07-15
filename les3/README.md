@@ -22,11 +22,11 @@
 
 ## Leeruitkomsten
 
-In deze les werk je aan de volgende leeruitkomst:
+In deze les ligt de focus op de volgende leeruitkomst:
 
-| Leeruitkomst                                                                                                            | Toelichting                                                      |
-| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS. | In deze les leer je hoe je met Flexbox een layout kunt opbouwen. |
+| Leeruitkomst                                                                                                            | Toelichting                                                    |
+| ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
+| 2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS. | In deze les leer je hoe je met Flexbox een layout kunt bouwen. |
 
 <br>
 

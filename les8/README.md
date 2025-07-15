@@ -1,5 +1,33 @@
 # Les 8
 
+**Inhoudsopgave**
+
+- [Les 8](#les-8)
+  - [Leeruitkomsten](#leeruitkomsten)
+  - [Eindopdracht](#eindopdracht)
+  - [Voorbereiding](#voorbereiding)
+  - [Wireframe nabouwen](#wireframe-nabouwen)
+  - [Inleveren](#inleveren)
+
+<br><hr><br>
+
+## Leeruitkomsten
+
+In deze les ligt de focus op de volgende leeruitkomst:
+
+| Leeruitkomst                                                                                   | Toelichting             |
+| ---------------------------------------------------------------------------------------------- | ----------------------- |
+| 3. Ik kan animaties bouwen en uitleggen waarom dit een aanvulling is op de gebruikerservaring. | In deze les leer je ... |
+
+<br>
+
+Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
+juiste link invoeren.
+
+<br><hr><br>
+
+## Eindopdracht
+
 Je gaat nu je eindproduct afronden. Dit is een website over een fictief product.
 
 ## Voorbereiding

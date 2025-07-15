@@ -1,6 +1,9 @@
 # Les 7
 
+**Inhoudsopgave**
+
 - [Les 7](#les-7)
+  - [Leeruitkomsten](#leeruitkomsten)
 - [What CSS can do](#what-css-can-do)
 - [Transition](#transition)
 - [Filter, transform en 3D-effect](#filter-transform-en-3d-effect)
@@ -20,6 +23,21 @@
     - [Audio bars](#audio-bars)
 - [Responsive design](#responsive-design)
 - [Links](#links)
+
+<br><hr><br>
+
+## Leeruitkomsten
+
+In deze les ligt de focus op de volgende leeruitkomst:
+
+| Leeruitkomst                                                                                   | Toelichting             |
+| ---------------------------------------------------------------------------------------------- | ----------------------- |
+| 3. Ik kan animaties bouwen en uitleggen waarom dit een aanvulling is op de gebruikerservaring. | In deze les leer je ... |
+
+<br>
+
+Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
+juiste link invoeren.
 
 <br><br><br>
 

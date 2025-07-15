@@ -22,7 +22,7 @@
 
 ## Leeruitkomsten
 
-In deze les werk je aan de volgende leeruitkomst:
+In deze les ligt de focus op de volgende leeruitkomst:
 
 | Leeruitkomst                                                                                                        | Toelichting                                            |
 | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |

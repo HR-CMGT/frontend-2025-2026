@@ -3,6 +3,7 @@
 **Inhoudsopgave**
 
 - [Les 6](#les-6)
+  - [Leeruitkomsten](#leeruitkomsten)
 - [Opdracht: W3C validator](#opdracht-w3c-validator)
   - [De opdracht](#de-opdracht)
 - [Formulieren](#formulieren)
@@ -28,6 +29,21 @@
   - [Opdracht 5: Validatie](#opdracht-5-validatie)
   - [Opdracht 6: het formulier versturen](#opdracht-6-het-formulier-versturen)
 - [Links](#links)
+
+<br><hr><br>
+
+## Leeruitkomsten
+
+In deze les ligt de focus op de volgende leeruitkomst:
+
+| Leeruitkomst                                                                                                        | Toelichting                                            |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| 1. Ik kan de relatie tussen HTML en CSS uitleggen en kan hiermee een semantische en toegankelijke webpagina bouwen. | In deze les leer je de basisbeginselen van HTML & CSS. |
+
+<br>
+
+Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
+juiste link invoeren.
 
 <br><br><br>
 
