@@ -24,7 +24,7 @@
 - [Responsive design](#responsive-design)
 - [Links](#links)
 
-<br><hr><br>
+<br><br><br>
 
 ## Leeruitkomsten
 

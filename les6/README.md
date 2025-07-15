@@ -30,7 +30,7 @@
   - [Opdracht 6: het formulier versturen](#opdracht-6-het-formulier-versturen)
 - [Links](#links)
 
-<br><hr><br>
+<br><br><br>
 
 ## Leeruitkomsten
 

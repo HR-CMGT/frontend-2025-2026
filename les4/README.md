@@ -16,7 +16,7 @@
   - [Stap 2: Wireframe nabouwen](#stap-2-wireframe-nabouwen)
     - [Van wireframe naar ontwerp](#van-wireframe-naar-ontwerp)
 
-<br><hr><br>
+<br><br><br>
 
 ## Leeruitkomsten
 
@@ -32,19 +32,19 @@ In deze les ligt de focus op de volgende leeruitkomsten:
 Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
 juiste link invoeren.
 
-<br><hr><br>
+<br><br><br>
 
 # Flexbox Froggy 🐸
 
 [Flex je skills met de flexbox froggy game](https://flexboxfroggy.com)
 
-<br><hr><br>
+<br><br><br>
 
 # Minipuzzels - Nested Flexbox
 
 [Klik hier om naar de minipuzzels over nested Flexbox te gaan.](minipuzzels/nested-flexbox/)
 
-<br><hr><br>
+<br><br><br>
 
 # Navigatie
 
@@ -148,13 +148,13 @@ a:active {
 }
 ```
 
-<br><hr><br>
+<br><br><br>
 
 ## Minipuzzels - Navigatie
 
 [Klik hier om naar de minipuzzels over navigatie te gaan.](minipuzzels/navigatie/)
 
-<br><hr><br>
+<br><br><br>
 
 # Google Fonts
 
@@ -170,7 +170,7 @@ Doorloop de volgende stappen om een font van Google te gebruiken:
 5. Scroll in het winkelmandje nog iets verder naar het kopje `CSS rules to specify families` en kopieer de benodigde
    CSS-code en plak deze bij de gewenste selector in je CSS-bestand.
 
-<br><hr><br>
+<br><br><br>
 
 # De tussenopdracht
 

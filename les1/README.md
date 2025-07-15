@@ -18,7 +18,7 @@
   - [Opdracht 5 - CSS](#opdracht-5---css)
   - [Opdracht 6 - Images](#opdracht-6---images)
 
-<br><hr><br>
+<br><br><br>
 
 ## Leeruitkomsten
 
@@ -33,7 +33,7 @@ In deze les ligt de focus op de volgende leeruitkomst:
 Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
 juiste link invoeren.
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 1 - Werkomgeving gereed maken
 
@@ -126,7 +126,7 @@ de volgende stappen leer je hoe je deze extensie gebruikt.
 
 > Je hoeft dus niet telkens opnieuw de `live server` te starten!
 
-<br><hr><br>
+<br><br><br>
 
 > ⚠️ Opdracht 3 t/m 5 maak je in de bestanden die je bij [opdracht 1d](#opdracht-1d---bestandsstructuur-html-en-css)
 > hebt gemaakt.
@@ -137,7 +137,7 @@ de volgende stappen leer je hoe je deze extensie gebruikt.
 
 [Klik hier om de naar de minipuzzels te gaan.](./minipuzzels)
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 3 - HTML
 
@@ -175,7 +175,7 @@ Je hebt hier het volgende voor nodig:
 - [Introductievideo HTML](https://www.youtube.com/watch?v=WO2jDnff6pk) (_bekijk tot 04:33, het deel erna is niet van
   toepassing voor dit vak_)
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 4 - Basisstructuur HTML
 
@@ -206,7 +206,7 @@ Je hebt hier het volgende voor nodig:
 - [Cheatsheet HTML & CSS](./cheatsheet/Cheatsheet-HTML-CSS.pdf)
 - [Wireframe basisstructuur HTML](./images/Basisstructuur-HTML.jpg)
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 5 - CSS
 
@@ -239,7 +239,7 @@ Je hebt hier het volgende voor nodig:
   toepassing voor dit vak_)
 - [Video: Margin and Padding Deep Dive: The basics](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 6 - Images
 

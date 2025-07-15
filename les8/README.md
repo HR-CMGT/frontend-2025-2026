@@ -9,7 +9,7 @@
   - [Wireframe nabouwen](#wireframe-nabouwen)
   - [Inleveren](#inleveren)
 
-<br><hr><br>
+<br><br><br>
 
 ## Leeruitkomsten
 
@@ -24,7 +24,7 @@ In deze les ligt de focus op de volgende leeruitkomst:
 Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
 juiste link invoeren.
 
-<br><hr><br>
+<br><br><br>
 
 ## Eindopdracht
 

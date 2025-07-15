@@ -13,7 +13,7 @@
   - [Minipuzzel 3](#minipuzzel-3)
   - [Minipuzzel 4](#minipuzzel-4)
 
-<br><hr><br>
+<br><br><br>
 
 ## Inleiding
 

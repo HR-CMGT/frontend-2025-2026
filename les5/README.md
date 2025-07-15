@@ -28,7 +28,7 @@
   - [Eindresultaat mobile](#eindresultaat-mobile)
   - [Eindresultaat desktop](#eindresultaat-desktop)
 
-<br><hr><br>
+<br><br><br>
 
 ## Leeruitkomsten
 
@@ -289,7 +289,7 @@ te laden. In dit voorbeeld zien we een portret op kleine schermen en een overvie
 </picture>
 ```
 
-<br><hr><br>
+<br><br><br>
 
 ## Links
 
@@ -308,7 +308,7 @@ te laden. In dit voorbeeld zien we een portret op kleine schermen en een overvie
 - Op mobiel heb je geen muis, je kan met [Touch Actions](https://css-tricks.com/almanac/properties/t/touch-action/)
   bepalen wat user gestures doen.
 
-<br><hr><br>
+<br><br><br>
 
 # Opdracht: Foodblog responsive
 

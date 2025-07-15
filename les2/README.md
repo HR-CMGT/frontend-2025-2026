@@ -28,7 +28,7 @@
   - [Opdracht 5a](#opdracht-5a)
   - [Opdracht 5b - Advanced](#opdracht-5b---advanced)
 
-<br><hr><br>
+<br><br><br>
 
 ## Leeruitkomsten
 
@@ -44,7 +44,7 @@ In deze les ligt de focus op de volgende leeruitkomsten:
 Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
 juiste link invoeren.
 
-<br><hr><br>
+<br><br><br>
 
 # Semantische tags
 
@@ -106,14 +106,14 @@ inhoudelijke waarde die het heeft.
 
 <br>
 
-<br><hr><br>
+<br><br><br>
 
 # Quiz over semantische HTML-tags
 
 <a href="https://brightspace.hr.nl/d2l/le/lessons/110777/topics/443925" target="_blank">Klik hier om de quiz over
 semantische HTML-tags te doen</a>
 
-<br><hr><br>
+<br><br><br>
 
 # Werken met de inspector
 
@@ -143,7 +143,7 @@ Open de inspector en voer de volgende opdrachten daarin uit:
 3. Pas van minimaal 3 elementen de achtergrondkleur aan;
 4. Pas de achtergrondkleur van de gehele webpagina aan;
 
-<br><hr><br>
+<br><br><br>
 
 # CSS selectors
 
@@ -173,7 +173,7 @@ Er zijn veel verschillende manieren om HTML-elementen te selecteren en hieronder
 - <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors/Selectors_and_combinators" target="_blank">Documentatie
   over selectors op MDN</a>
 
-<br><hr><br>
+<br><br><br>
 
 # Absolute units en relatieve units
 
@@ -281,7 +281,7 @@ de `width` van de `section`, namelijk naar 33%. Het volgende valt op:
 
 - <a href="https://www.youtube.com/watch?v=N5wpD9Ov_To" target="_blank">Video over welke units te gebruiken</a>
 
-<br><hr><br>
+<br><br><br>
 
 # Opdracht: Top 3
 
@@ -321,7 +321,7 @@ Je hebt hier het volgende voor nodig:
 - <a href="../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf" target="_blank">Cheatsheet HTML & CSS</a>
 - <a href="./images/Basisstructuur-HTML.jpg" target="_blank">Wireframe basisstructuur HTML</a>
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 2 - CSS: teksten en kleuren
 
@@ -372,7 +372,7 @@ Je hebt hier het volgende voor nodig:
 > }
 > ```
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 3 - CSS: padding & margin
 
@@ -395,7 +395,7 @@ Je hebt hier het volgende voor nodig:
 - <a href="https://www.youtube.com/watch?v=EhbZGV2dqZ4" target="_blank">Video: Margin and Padding Deep Dive: The
   basics</a>
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 4 - CSS: absolute & relatieve units
 
@@ -419,7 +419,7 @@ Je hebt hier het volgende voor nodig:
 |      | %       |                   |
 |      | padding |                   |
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 5a
 
@@ -439,7 +439,7 @@ ook je eigen kleuren kiezen!
 |      |     | #FFD745           |
 |      |     | #49AFFF           |
 
-<br><hr><br>
+<br><br><br>
 
 ## Opdracht 5b - Advanced
 

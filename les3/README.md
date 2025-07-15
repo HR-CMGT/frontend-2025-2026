@@ -18,7 +18,7 @@
 - [Opdracht 2: Foodblog](#opdracht-2-foodblog)
   - [Advanced opdracht](#advanced-opdracht)
 
-<br><hr><br>
+<br><br><br>
 
 ## Leeruitkomsten
 
@@ -33,7 +33,7 @@ In deze les ligt de focus op de volgende leeruitkomst:
 Alle leeruitkomsten zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO:
 juiste link invoeren.
 
-<br><hr><br>
+<br><br><br>
 
 # Flexbox
 
@@ -147,13 +147,13 @@ klik rechts van `display: flex` op het Flexbox-knopje. Voor meer info, bekijk de
 <br><br> **Klaar met het hoofdstuk over Flexbox?** <br>
 [Klik dan hier om naar de minipuzzels over Flexbox te gaan.](minipuzzels/flexbox/)
 
-<br><hr><br>
+<br><br><br>
 
 # Minipuzzels - Flexbox
 
 [Klik hier om naar de minipuzzels over Flexbox te gaan.](minipuzzels/flexbox/)
 
-<br><hr><br>
+<br><br><br>
 
 # Opdracht 1: Foodblog genereren met AI
 
@@ -228,7 +228,7 @@ Stel nu de eerste vraag.
 ...
 ```
 
-<br><hr><br>
+<br><br><br>
 
 # Opdracht 2: Foodblog
 
