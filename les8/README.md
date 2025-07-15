@@ -15,9 +15,9 @@
 
 In deze les ligt de focus op de volgende leeruitkomst:
 
-| Leeruitkomst                                                                                   | Toelichting             |
-| ---------------------------------------------------------------------------------------------- | ----------------------- |
-| 3. Ik kan animaties bouwen en uitleggen waarom dit een aanvulling is op de gebruikerservaring. | In deze les leer je ... |
+| Leeruitkomst                                                                                                                            | Toelichting                   |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| 4. Ik kan uitleggen hoe AI-tools het leerproces kunnen ondersteunen en kan de kwaliteit van de gegenereerde output kritisch beoordelen. | In deze les leer je ... @TODO |
 
 <br>
 
