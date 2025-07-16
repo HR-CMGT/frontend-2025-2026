@@ -37,7 +37,8 @@ Om jezelf nog verder te helpen volgen hier enkele hulpbronnen:
   - [Video met uitgebreide uitleg over srcset (aanrader!)](https://www.youtube.com/watch?v=2QYpkrX2N48)
 - Semantische HTML
   - [Veelgebruikte semantische HTML-tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
-  - [Lijst met alle HTML-tags (alleen `<div>` en `<span>` zijn niet semantisch)](https://www.w3schools.com/TAGS/default.asp)
+  - [Lijst met alle HTML-tags](https://www.w3schools.com/TAGS/default.asp) (alleen `<div>` en `<span>` zijn niet
+    semantisch)
 
 <br>
 
@@ -54,22 +55,23 @@ enkele tips om je hierbij te helpen.
 > - Hou de `flex-documentatie` bij de hand, en gebruik de `flex-inspector` in je browser.
 > - Je mag `<div>` gebruiken om binnen sections containers aan te maken, wanneer je dit puur voor de styling nodig
 >   hebt;
-> - Gebruik `padding` en `margin` om witruimte toe te voegen rondom je containers en binnen je containers
+> - Gebruik `margin` en `padding` om ruimte te creëren rondom je containers en binnen je containers
 > - Je kan het **★** karakter gebruiken voor de "star ratings".
 > - 😱 Als iets niet lukt, ga dan niet "_paniek-googlen_". Geef aan waar je op vastloopt bij je docent, medestudent of
->   peercoach.
+>   peercoach. Of gebruik AI-tools om vragen aan te stellen, zodat je daarvan leert, maar neem niet klakkeloos
+>   gegenereerde code over.
 
 ### Desktop wireframe - Home
 
 <img width="1012" alt="Wireframe desktop voor home" src="wireframes/wireframe-home-desktop.png">
 
-[Download: Wireframe home - Desktop](https://github.com/HR-CMGT/frontend-2024-2025/files/15500304/wireframe-home-desktop.pdf)
+[Download: Wireframe home - Desktop](https://github.com/user-attachments/files/21250046/wireframe-home-desktop.pdf)
 
 ### Desktop wireframe - Contact
 
 <img width="1012" alt="Wireframe desktop voor contact" src="wireframes/wireframe-contact-desktop.png">
 
-[Download: Wireframe contact - Desktop](https://github.com/HR-CMGT/frontend-2024-2025/files/15500290/wireframe-contact-desktop.pdf)
+[Download: Wireframe contact - Desktop](https://github.com/user-attachments/files/21250001/wireframe-contact-desktop.pdf)
 
 <br>
 
@@ -77,10 +79,10 @@ enkele tips om je hierbij te helpen.
 
 <img width="390" alt="Wireframe desktop voor home" src="wireframes/wireframe-home-mobile.png">
 
-[Download: Wireframe home - Mobile](https://github.com/HR-CMGT/frontend-2024-2025/files/15500316/wireframe-home-mobile.pdf)
+[Download: Wireframe home - Mobile](https://github.com/user-attachments/files/21250054/wireframe-home-mobile.pdf)
 
 ### Mobile wireframe - Contact
 
 <img width="390" alt="Wireframe desktop voor home" src="wireframes/wireframe-contact-mobile.png">
 
-[Download: Wireframe contact - Mobile](https://github.com/HR-CMGT/frontend-2024-2025/files/15500326/wireframe-contact-mobile.pdf)
+[Download: Wireframe contact - Mobile](https://github.com/user-attachments/files/21250034/wireframe-contact-mobile.pdf)

@@ -48,6 +48,8 @@ link invoeren.
 
 # Navigatie
 
+@TODO: voeg gedeelte over "scroll to top" toe.
+
 In de vorige lessen heb je al vaker met `<nav>` gewerkt en in deze les duiken we daar dieper op in. Je weet al dat je
 in de `<nav>` een `<a>` invoert voor ieder linkje die je wilt tonen. Maar hoe stel je dit linkje correct in? En hoe kan
 je deze vormgeven? Dat leer je in deze les.
