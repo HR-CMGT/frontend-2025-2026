@@ -1,6 +1,7 @@
 # Eindopdracht
 
 **Inhoudsopgave**
+
 - [Eindopdracht](#eindopdracht)
   - [De eindopdracht](#de-eindopdracht)
   - [Hulpbronnen](#hulpbronnen)
@@ -12,17 +13,17 @@
 
 <br><br>
 
-## De eindopdracht 
+## De eindopdracht
 
-De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden in de cursushandleiding.
-<br>
-***Lees de cursushandleiding aandachtig door!***
+De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden in de cursushandleiding. <br> **_Lees de
+cursushandleiding aandachtig door!_**
 
 <br>
 
 ## Hulpbronnen
 
 Om jezelf nog verder te helpen volgen hier enkele hulpbronnen:
+
 - Padding & margin
   - [Video: Margin and Padding Deep Dive: The basics](https://www.youtube.com/watch?v=EhbZGV2dqZ4)
 - CSS Grid
@@ -36,13 +37,14 @@ Om jezelf nog verder te helpen volgen hier enkele hulpbronnen:
   - [Video met uitgebreide uitleg over srcset (aanrader!)](https://www.youtube.com/watch?v=2QYpkrX2N48)
 - Semantische HTML
   - [Veelgebruikte semantische HTML-tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
-  - [Lijst met alle HTML-tags (alleen <div> en <span> zijn niet semantisch)](https://www.w3schools.com/TAGS/default.asp)
+  - [Lijst met alle HTML-tags (alleen `<div>` en `<span>` zijn niet semantisch)](https://www.w3schools.com/TAGS/default.asp)
 
 <br>
 
 ## Wireframes nabouwen
-De opdracht is om onderstaande wireframes na te bouwen, zoals omschreven in de cursushandleiding.
-Hieronder staan nog enkele tips om je hierbij te helpen.
+
+De opdracht is om onderstaande wireframes na te bouwen, zoals omschreven in de cursushandleiding. Hieronder staan nog
+enkele tips om je hierbij te helpen.
 
 > ### Tips voor het bouwen
 >
@@ -50,10 +52,12 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 > - Bouw één voor één de rijen na, in plaats van alles tegelijk op te willen lossen;
 > - Gebruik `display:flex` om elementen naast elkaar te zetten;
 > - Hou de `flex-documentatie` bij de hand, en gebruik de `flex-inspector` in je browser.
-> - Je mag `<div>` gebruiken om binnen sections containers aan te maken, wanneer je dit puur voor de styling nodig hebt;
+> - Je mag `<div>` gebruiken om binnen sections containers aan te maken, wanneer je dit puur voor de styling nodig
+>   hebt;
 > - Gebruik `padding` en `margin` om witruimte toe te voegen rondom je containers en binnen je containers
 > - Je kan het **★** karakter gebruiken voor de "star ratings".
-> - 😱 Als iets niet lukt, ga dan niet "*paniek-googlen*". Geef aan waar je op vastloopt bij je docent, medestudent of peercoach.
+> - 😱 Als iets niet lukt, ga dan niet "_paniek-googlen_". Geef aan waar je op vastloopt bij je docent, medestudent of
+>   peercoach.
 
 ### Desktop wireframe - Home
 
@@ -80,7 +84,3 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 <img width="390" alt="Wireframe desktop voor home" src="wireframes/wireframe-contact-mobile.png">
 
 [Download: Wireframe contact - Mobile](https://github.com/HR-CMGT/frontend-2024-2025/files/15500326/wireframe-contact-mobile.pdf)
-
-
-
-
