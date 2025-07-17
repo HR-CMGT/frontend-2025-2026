@@ -14,12 +14,14 @@
 - [Werken met de inspector](#werken-met-de-inspector)
   - [Opdrachten inspector](#opdrachten-inspector)
 - [CSS selectors](#css-selectors)
+  - [CSS Selector game](#css-selector-game)
 - [Absolute units en relatieve units](#absolute-units-en-relatieve-units)
   - [Absolute units](#absolute-units)
   - [Relatieve units](#relatieve-units)
   - [Meestgebruikte units](#meestgebruikte-units)
   - [Voorbeelden](#voorbeelden)
   - [Extra hulpbronnen over CSS units](#extra-hulpbronnen-over-css-units)
+- [Opdracht: Minipuzzels - Absolute \& relatieve units](#opdracht-minipuzzels---absolute--relatieve-units)
 - [Opdracht: Top 3](#opdracht-top-3)
   - [Opdracht 1 - Semantische HTML](#opdracht-1---semantische-html)
   - [Opdracht 2 - CSS: teksten en kleuren](#opdracht-2---css-teksten-en-kleuren)
@@ -159,11 +161,19 @@ Er zijn veel verschillende manieren om HTML-elementen te selecteren en hieronder
 | Class selector        | Selecteer op class                                                                                                                                    | .button                | .left-column                |
 | ID selector           | Selecteer op ID                                                                                                                                       | #my-hobbies            | #about-me                   |
 | Descendant selector   | Selecteer alles binnen een parent (in voorbeeld 1 iedere `p` in iedere `section`)                                                                     | section p              | main .button                |
-| Compound selector     | Selecteer elementen die aan meerdere voorwaarden voldoet (in voorbeeld 1 iedere `p` die óók de class `highlight` heeft.                               | p.highlight            | .button.success             |
+| Compound selector     | Selecteer elementen die aan meerdere voorwaarden voldoen (in voorbeeld 1 iedere `p` die óók de class `highlight` heeft.                               | p.highlight            | .button.success             |
 | Pseudo-class selector | Selecteer op pseudo-class die automatisch door de browser wordt gegeven, bijvoorbeeld wanneer je met je muis ergens overheen gaat.                    | .button:hover          |                             |
 | Selector list         | Wanneer meerdere selectors dezelfde vormgeving moeten hebben, dan kan je deze scheiden met een komma.                                                 | h1, h2, h3, h4, h5, h6 | .column-left, .column-right |
 | Universal selector    | Selecteert alle elementen. Is ook te gebruiken in een `descendant selector` (in voorbeeld 2 worden `alle children` in iedere `section` geselecteerd). | \*                     | section \*                  |
 
+<br>
+
+## CSS Selector game
+
+In het volgende spel leer je spelenderwijs hoe de verschillende type selectors te gebruiken zijn.
+[Klik hier om **CSS Diner** te openen](https://flukeout.github.io/).
+
+<br>
 <br>
 
 **Extra hulpbronnen**
@@ -280,6 +290,12 @@ de `width` van de `section`, namelijk naar 33%. Het volgende valt op:
 ## Extra hulpbronnen over CSS units
 
 - <a href="https://www.youtube.com/watch?v=N5wpD9Ov_To" target="_blank">Video over welke units te gebruiken</a>
+
+<br><br><br>
+
+# Opdracht: Minipuzzels - Absolute & relatieve units
+
+[Klik hier om de naar de minipuzzels te gaan.](./minipuzzels)
 
 <br><br><br>
 

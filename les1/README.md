@@ -5,23 +5,23 @@
 **Inhoudsopgave**
 
 - [Les 1](#les-1)
-  - [Leerdoelen](#leerdoelen)
-  - [Opdracht 1 - Werkomgeving gereed maken](#opdracht-1---werkomgeving-gereed-maken)
-    - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
-    - [Opdracht 1b - Extensie Live Server installeren](#opdracht-1b---extensie-live-server-installeren)
-    - [Opdracht 1c - Copilot configureren](#opdracht-1c---copilot-configureren)
-    - [opdracht 1e - Eerste project aanmaken](#opdracht-1e---eerste-project-aanmaken)
-    - [Opdracht 1e - Bestandsstructuur HTML en CSS](#opdracht-1e---bestandsstructuur-html-en-css)
-    - [Opdracht 1f - Code testen](#opdracht-1f---code-testen)
-  - [Opdracht 2 - Minipuzzels padding \& margin](#opdracht-2---minipuzzels-padding--margin)
-  - [Opdracht 3 - HTML](#opdracht-3---html)
-  - [Opdracht 4 - Basisstructuur HTML](#opdracht-4---basisstructuur-html)
-  - [Opdracht 5 - CSS](#opdracht-5---css)
-  - [Opdracht 6 - Images](#opdracht-6---images)
+- [Leerdoelen](#leerdoelen)
+- [Opdracht 1 - Werkomgeving gereed maken](#opdracht-1---werkomgeving-gereed-maken)
+  - [Opdracht 1a - Visual Studio Code installeren](#opdracht-1a---visual-studio-code-installeren)
+  - [Opdracht 1b - Extensie Live Server installeren](#opdracht-1b---extensie-live-server-installeren)
+  - [Opdracht 1c - Copilot configureren](#opdracht-1c---copilot-configureren)
+  - [opdracht 1e - Eerste project aanmaken](#opdracht-1e---eerste-project-aanmaken)
+  - [Opdracht 1e - Bestandsstructuur HTML en CSS](#opdracht-1e---bestandsstructuur-html-en-css)
+  - [Opdracht 1f - Code testen](#opdracht-1f---code-testen)
+- [Opdracht 2 - Minipuzzels padding \& margin](#opdracht-2---minipuzzels-padding--margin)
+- [Opdracht 3 - HTML](#opdracht-3---html)
+- [Opdracht 4 - Basisstructuur HTML](#opdracht-4---basisstructuur-html)
+- [Opdracht 5 - CSS](#opdracht-5---css)
+- [Opdracht 6 - Images](#opdracht-6---images)
 
 <br><br><br>
 
-## Leerdoelen
+# Leerdoelen
 
 In deze les ligt de focus op het volgende leerdoel:
 
@@ -36,7 +36,7 @@ link invoeren.
 
 <br><br><br>
 
-## Opdracht 1 - Werkomgeving gereed maken
+# Opdracht 1 - Werkomgeving gereed maken
 
 Om te kunnen beginnen met programmeren heb je een app nodig waarin dit kan, ook wel een
 [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) genoemd. In onderstaande stappen installeer je
@@ -44,7 +44,7 @@ eerst `Visual Studio Code` en vervolgens de extensie `Live Server` en maak je je
 
 <br><br>
 
-### Opdracht 1a - Visual Studio Code installeren
+## Opdracht 1a - Visual Studio Code installeren
 
 1. Ga naar https://code.visualstudio.com en klik op de download-knop;
 2. Op een MacBook: open het gedownloade bestand en versleep de app naar de apps-map;
@@ -53,7 +53,7 @@ eerst `Visual Studio Code` en vervolgens de extensie `Live Server` en maak je je
 
 <br><br>
 
-### Opdracht 1b - Extensie Live Server installeren
+## Opdracht 1b - Extensie Live Server installeren
 
 Om de door jou geschreven code te testen in de browser heb je een extensie nodig die dit mogelijk maakt, genaamd
 `Live Server`. Hiermee worden wijzigingen die je in de code maakt direct zichtbaar in de browser. In deze opdracht ga
@@ -69,7 +69,7 @@ je de extensie alleen installeren, dus nog niet gebruiken, dat komt pas bij [opd
 
 <br><br>
 
-### Opdracht 1c - Copilot configureren
+## Opdracht 1c - Copilot configureren
 
 Copilot is AI-chat ingebouwd in Visual Studio Code. Aan deze chat kan je vragen stellen over jouw code en is het zelfs
 mogelijk om code te genereren. In deze opdracht ga je Copilot configureren. Je hebt hier maar één ding voor nodig: een
@@ -89,7 +89,7 @@ Copilot is nu geconfigureerd en je kunt het gaan gebruiken. In een latere les le
 
 <br><br>
 
-### opdracht 1e - Eerste project aanmaken
+## opdracht 1e - Eerste project aanmaken
 
 Voor ieder project waaraan je werkt maak je een nieuw project aan in Visual Studio Code. Je gaat nu jouw eerste project
 aanmaken. Dit project kan je gedurende het vak gebruiken om de lesopdrachten te maken. Voor de eindopdracht van dit vak
@@ -105,7 +105,7 @@ maak je (op een later moment) weer een nieuw project aan.
 
 <br><br>
 
-### Opdracht 1e - Bestandsstructuur HTML en CSS
+## Opdracht 1e - Bestandsstructuur HTML en CSS
 
 Wanneer je met HTML en CSS werkt heb je altijd een bepaalde `bestandsstructuur` nodig van bestanden en mappen. Dat ga
 je in deze opdracht aanmaken. Allereerst is het goed om te weten dat je door de lessen heen een aantal hoofdopdrachten
@@ -132,7 +132,7 @@ de linkerzijde, rechts van de projectnaam.
 
 <br><br>
 
-### Opdracht 1f - Code testen
+## Opdracht 1f - Code testen
 
 Het project is gereed en je bent klaar om te beginnen met programmeren! Om de door jou geschreven code te testen heb je
 de extensie `Live Server` nodig (geïnstalleerd in [opdracht 1b](#opdracht-1b---extensie-live-server-installeren)). Met
@@ -154,13 +154,13 @@ de volgende stappen leer je hoe je deze extensie gebruikt.
 
 <br>
 
-## Opdracht 2 - Minipuzzels padding & margin
+# Opdracht 2 - Minipuzzels padding & margin
 
 [Klik hier om de naar de minipuzzels te gaan.](./minipuzzels)
 
 <br><br><br>
 
-## Opdracht 3 - HTML
+# Opdracht 3 - HTML
 
 Bouw het volgende ontwerp na _(klik op de afbeelding om te vergroten)_. <br> In de tabel hieronder zie je welke
 HTML-tags je nodig hebt voor deze opdracht.
@@ -198,7 +198,7 @@ Je hebt hier het volgende voor nodig:
 
 <br><br><br>
 
-## Opdracht 4 - Basisstructuur HTML
+# Opdracht 4 - Basisstructuur HTML
 
 Nu je de tekstuele elementen in de vorige opdracht hebt aangemaakt, wordt het tijd om hier structuur in aan te brengen
 met semantische tags. Zoals je in onderstaand ontwerp ziet, zal na deze opdracht de pagina visueel nog niet veranderd
@@ -229,7 +229,7 @@ Je hebt hier het volgende voor nodig:
 
 <br><br><br>
 
-## Opdracht 5 - CSS
+# Opdracht 5 - CSS
 
 Bouw het volgende ontwerp na _(klik op de afbeelding om te vergroten)_. <br> De HTML van de pagina staat nu volledig,
 dus het wordt tijd om hier styling aan te geven met CSS. In de tabel hieronder zie je wat je nodig hebt in de CSS voor
@@ -262,7 +262,7 @@ Je hebt hier het volgende voor nodig:
 
 <br><br><br>
 
-## Opdracht 6 - Images
+# Opdracht 6 - Images
 
 Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen welke afbeeldingen je voor deze oefening
 gebruikt en waar je ze op de pagina toevoegt. Dit werkt iets anders dan je gewend bent in Codepen. Je zult de

@@ -4,8 +4,8 @@
 
 | Les   | Onderwerpen                                                                                                                     |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Les 1 | [Werkomgeving, HTML, CSS, attributen, selectors](./les1)                                                                        |
-| Les 2 | [Semantische tags, inspector, padding & margin](./les2)                                                                         |
+| Les 1 | [Werkomgeving, HTML, CSS, padding & margin, attributen, selectors](./les1)                                                      |
+| Les 2 | [Semantische tags, inspector](./les2)                                                                                           |
 | Les 3 | [Flexbox, navigatie](./les3)                                                                                                    |
 | Les 4 | [Wireframe oefening](./les4)                                                                                                    |
 |       | [Deadline tussenopdracht op Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/topics/464209)                         |
