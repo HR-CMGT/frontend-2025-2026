@@ -6,6 +6,8 @@
   - [Leerdoelen](#leerdoelen)
 - [Opdracht: W3C validator](#opdracht-w3c-validator)
   - [De opdracht](#de-opdracht)
+- [Opdracht: Wave accessibility tool](#opdracht-wave-accessibility-tool)
+  - [De opdracht](#de-opdracht-1)
 - [Formulieren](#formulieren)
   - [Type invoervelden](#type-invoervelden)
     - [Voorbeelden van input](#voorbeelden-van-input)
@@ -68,10 +70,38 @@ Voer de volgende stappen uit:
 4. Je krijgt nu een lijst met _errors_ en _warnings_ en _info_ (zie screenshot hieronder). _Errors_ moet je altijd
    oplossen, _warnings_ zijn vaak een goed idee om op te lossen en _info_ is over het algemeen puur ter informatie.
 5. Lees de meldingen aandachtig door en probeer ze op te lossen in de code. Begrijp je een melding niet? Kopieer de
-   melding dan en plak deze in Copilot en vraag om een uitleg. Laat Copilot het niet domweg oplossen, daar leer jij
+   melding dan en plak deze in Copilot en vraag om een uitleg. Laat Copilot het niet voor jou oplossen, daar leer jij
    niets van.
 
 <img src="./images/W3C-validator.png" alt="W3C validator" title="W3C validator" width="1012">
+
+<br><br><br>
+
+# Opdracht: Wave accessibility tool
+
+Een website maak je zodat mensen deze kunnen gebruiken. Er is echter een grote groep mensen die door een handicap
+websites niet kunnen gebruiken zoals de meeste mensen dat doen. Denk maar bijvoorbeeld aan mensen met een visuele
+beperking, waardoor ze niet alles of zelfs helemaal niets kunnen zien. Het is belangrijk dat jij als developer rekening
+houdt met deze groep mensen. Dit is sinds 28 juni 2025 voor veel bedrijven zelfs verplicht geworden om te doen door de
+[European Accessibility Act](https://ondernemersplein.overheid.nl/european-accessibility-act-.producten-en-diensten-moeten-volledig-toegankelijk-zijn/).
+
+In deze opdracht ga je kennismaken met de tool **Wave** die jou inzicht geeft in de belangrijke onderdelen waar je
+rekening mee moet houden tijdens het bouwen van een website, zodat iedereen ter wereld jouw websites kan gebruiken.
+
+## De opdracht
+
+Voer de volgende stappen uit:
+
+1. Installeer de extensie in
+   [Chrome](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh),
+   [Edge](https://microsoftedge.microsoft.com/addons/detail/wave-evaluation-tool/khapceneeednkiopkkbgkibbdoajpkoj) of
+   [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/);
+2. Ga naar de website van jouw keuze en klik rechts bovenin op het icoontje van deze extensie (de letter W);
+3. Wave voert nu een test uit en links in het scherm zie je het resultaat hiervan.
+4. 💡 Tip: klik onderin op de knop **Code**, zodat je meteen de bijbehorende code ziet wanneer je op een error o.i.d.
+   klikt.
+
+<img src="./images/Wave.png" alt="W3C validator" title="W3C validator" width="1012">
 
 <br><br><br>
 
