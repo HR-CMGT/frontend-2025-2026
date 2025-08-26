@@ -27,7 +27,9 @@ CSS-bestand.
 
 ## Startcode downloaden
 
-[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)
+@TODO: update op Brightspace alle linkjes naar de startcode
+
+[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308)
 
 <br>
 

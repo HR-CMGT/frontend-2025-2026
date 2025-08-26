@@ -25,7 +25,7 @@ code in het CSS-bestand.
 
 ## Startcode downloaden
 
-[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)
+[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308)
 
 <br>
 
@@ -41,14 +41,14 @@ Open de CSS van `Minipuzzel 1` en stel voor de balken de `width` in zoals op ond
 
 Balk 1 en 2 zijn beiden even breed, terwijl de eerste met `%` is ingesteld en de tweede met `vw`. Hoe kan dit?
 
-Met `%` wordt de waarde relatief aan de parent bepaald en met `vw` relatief aan de viewport-width (dus het scherm).
-Balk 1 en 2 staan direct in de `<body>` en die is hier even breed als de viewport-width. Daarom zijn balk 1 en 2 even
-breed.
+Met `%` wordt de waarde relatief aan de parent bepaald en met `vw` relatief aan de viewport-width (dus het
+browserscherm). Balk 1 en 2 staan direct in de `<body>` en die is hier even breed als de viewport-width. Daarom zijn
+balk 1 en 2 even breed.
 
 Balk 3 staat net als balk 1 ingesteld op `50%`, maar toch zie je verschil in breedte. Dit komt omdat balk 3 en 4 in een
 `<section>` staan met een breedte van `500px`. Zoals gezegd stel je met `%` de waarde relatief aan de parent in. Bij
 balk 1 is de parent de `<body>`, welke even breed is als het scherm. Bij balk 3 is de parent de `<section>` met een
-breedte van `500px`, waardoor balk 3 en breedte van `250px` krijgt.
+breedte van `500px`, waardoor balk 3 een breedte van `250px` krijgt.
 
 Daarentegen blijft balk 4 even breed als balk 2, omdat deze relatief is aan de viewport-width en die blijft hetzelfde.
 

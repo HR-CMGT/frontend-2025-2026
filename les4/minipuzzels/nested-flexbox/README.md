@@ -23,7 +23,7 @@ HTML-bestand wel bekijken, maar schrijf alleen maar code in het CSS-bestand.
 
 ## Startcode downloaden
 
-[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)
+[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308)
 
 <br>
 

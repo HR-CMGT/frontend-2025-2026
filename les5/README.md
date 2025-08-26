@@ -330,7 +330,7 @@ volgende stappen om Responsively te installeren:
 # Opdracht 2: Foodblog responsive
 
 Hieronder staat het eindresultaat op mobile én op desktop wat je moet zien te bereiken. In
-[de startcode](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865) werkt veel al op desktop, maar nog niet
+[de startcode](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308) werkt veel al op desktop, maar nog niet
 alles klopt én ook niet alles is al optimaal ingesteld, waardoor het op kleinere schermen nog niet overeenkomt met het
 eindresultaat wat je hieronder ziet. Zorg er dus voor dat je tot onderstaand eindresultaat komt. Hou voor mobile een
 maximale breedte van `480px` aan, dus stel daar je media-queries op in.

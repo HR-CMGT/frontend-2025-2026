@@ -353,7 +353,7 @@ dat je zelf weet wat er zich onder de motorkap afspeelt. Daarom ga je de foodblo
 de hand, zodat je goed leert hoe je o.a. Flexbox moet toepassen.
 
 Download de startcode als je dat nog niet had gedaan
-([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)) en bouw vervolgens het volgende
+([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308)) en bouw vervolgens het volgende
 ontwerp na _(klik op de afbeelding om te vergroten)_.
 
 Let op, het gaat om twee pagina's: de homepage met recepten en de detailpagina van een recept. Wanneer er op de
@@ -385,7 +385,7 @@ Voor deze opdracht heb je de volgende kleurcodes nodig:
 
 Als je wat extra uitdaging wilt, dan kan je ook onderstaande wireframe nabouwen. Hierin zitten extra elementen die je
 door zelfstudie moet zien te achterhalen. De afbeeldingen zijn te vinden in de startcode
-([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/lessons/442865)). Je mag de startcode gebruiken,
+([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308)). Je mag de startcode gebruiken,
 maar je mag ook alles zelf maken.
 
 Let op, ook bij deze opdracht gaat het om twee pagina's: de homepage met recepten en de detailpagina van een recept. De
