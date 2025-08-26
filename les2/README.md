@@ -112,7 +112,7 @@ inhoudelijke waarde die het heeft.
 
 # Quiz over semantische HTML-tags
 
-<a href="https://brightspace.hr.nl/d2l/le/lessons/110777/topics/443925" target="_blank">Klik hier om de quiz over
+<a href="https://brightspace.hr.nl/d2l/le/lessons/192811/topics/835043" target="_blank">Klik hier om de quiz over
 semantische HTML-tags te doen</a>
 
 <br><br><br>

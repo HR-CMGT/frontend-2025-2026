@@ -4,9 +4,9 @@
 
 - [Les 6](#les-6)
   - [Leerdoelen](#leerdoelen)
-- [Opdracht: W3C validator](#opdracht-w3c-validator)
+- [Opdracht 1 - W3C validator](#opdracht-1---w3c-validator)
   - [De opdracht](#de-opdracht)
-- [Opdracht: Wave accessibility tool](#opdracht-wave-accessibility-tool)
+- [Opdracht 2: Wave accessibility tool](#opdracht-2-wave-accessibility-tool)
   - [De opdracht](#de-opdracht-1)
 - [Formulieren](#formulieren)
   - [Type invoervelden](#type-invoervelden)
@@ -23,13 +23,13 @@
   - [Formulier responsive maken](#formulier-responsive-maken)
     - [Mobile](#mobile)
   - [Validatie feedback met CSS](#validatie-feedback-met-css)
-- [Opdracht: Forms](#opdracht-forms)
-  - [Opdracht 1: Nieuw project opzetten](#opdracht-1-nieuw-project-opzetten)
-  - [Opdracht 2: HTML formulier](#opdracht-2-html-formulier)
-  - [Opdracht 3: CSS formulier](#opdracht-3-css-formulier)
-  - [Opdracht 4: Responsive](#opdracht-4-responsive)
-  - [Opdracht 5: Validatie](#opdracht-5-validatie)
-  - [Opdracht 6: het formulier versturen](#opdracht-6-het-formulier-versturen)
+- [Opdracht 3 - Formulieren](#opdracht-3---formulieren)
+  - [Opdracht 3a - Nieuw project opzetten](#opdracht-3a---nieuw-project-opzetten)
+  - [Opdracht 3b - HTML formulier](#opdracht-3b---html-formulier)
+  - [Opdracht 3c - CSS formulier](#opdracht-3c---css-formulier)
+  - [Opdracht 3d - Responsive](#opdracht-3d---responsive)
+  - [Opdracht 3e - Validatie](#opdracht-3e---validatie)
+  - [Opdracht 3f - het formulier versturen](#opdracht-3f---het-formulier-versturen)
 - [Links](#links)
 
 <br><br><br>
@@ -38,9 +38,10 @@
 
 In deze les ligt de focus op het volgende leerdoel:
 
-| Leerdoel                                                                                                            | Toelichting                                            |
-| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 1. Ik kan de relatie tussen HTML en CSS uitleggen en kan hiermee een semantische en toegankelijke webpagina bouwen. | In deze les leer je de basisbeginselen van HTML & CSS. |
+| Leerdoel                                                                                                                | Toelichting                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. Ik kan de relatie tussen HTML en CSS uitleggen en kan hiermee een semantische en toegankelijke webpagina bouwen.     | In deze les leer je hoe je jouw HTML kan testen op correctheid kan maken en hoe je rekening houdt met toegankelijkheid. Ook leer je hoe je formulieren maakt. |
+| 2. Ik kan uitleggen hoe een layout tot stand komt in de browser en kan een responsive webpagina bouwen met HTML en CSS. | In deze les leer je hoe je de layout van een formulier kan maken.                                                                                             |
 
 <br>
 
@@ -49,7 +50,7 @@ link invoeren.
 
 <br><br><br>
 
-# Opdracht: W3C validator
+# Opdracht 1 - W3C validator
 
 Wanneer je een website maakt is het belangrijk dat hier geen fouten in staan. Een manier om dit te voorkomen is door
 handmatig op zoek te gaan naar fouten. Hoewel dit altijd onderdeel van het werk zal zijn, bestaan er ook tools die voor
@@ -77,7 +78,7 @@ Voer de volgende stappen uit:
 
 <br><br><br>
 
-# Opdracht: Wave accessibility tool
+# Opdracht 2: Wave accessibility tool
 
 Een website maak je zodat mensen deze kunnen gebruiken. Er is echter een grote groep mensen die door een handicap
 websites niet kunnen gebruiken zoals de meeste mensen dat doen. Denk maar bijvoorbeeld aan mensen met een visuele
@@ -92,7 +93,7 @@ rekening mee moet houden tijdens het bouwen van een website, zodat iedereen ter 
 
 Voer de volgende stappen uit:
 
-1. Installeer de extensie in
+1. Installeer de extensie van Wave in
    [Chrome](https://chromewebstore.google.com/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh),
    [Edge](https://microsoftedge.microsoft.com/addons/detail/wave-evaluation-tool/khapceneeednkiopkkbgkibbdoajpkoj) of
    [Firefox](https://addons.mozilla.org/en-US/firefox/addon/wave-accessibility-tool/);
@@ -407,7 +408,7 @@ input:user-invalid {
 
 <br><br>
 
-# Opdracht: Forms
+# Opdracht 3 - Formulieren
 
 In de komende opdrachten werk je toe naar een compleet formulier met alle opties die hierboven zijn besproken. Dit
 formulier ga je op een andere pagina maken dan de homepage. Dus je hebt de `index.html`, waar je tot nu toe in het hebt
@@ -417,7 +418,7 @@ bezoeken.
 
 <br>
 
-## Opdracht 1: Nieuw project opzetten
+## Opdracht 3a - Nieuw project opzetten
 
 Voor de lesopdracht van vandaag moet je een nieuw project opzetten, anders kan je opdracht 6 namelijk niet uitvoeren.
 Voer de volgende stappen uit:
@@ -527,7 +528,7 @@ main {
 
 <br><br>
 
-## Opdracht 2: HTML formulier
+## Opdracht 3b - HTML formulier
 
 In deze opdracht ga je de HTML van het formulier schrijven. Bouw hiervoor het formulier in onderstaand ontwerp na. Zorg
 ervoor dat het er inhoudelijk echt hetzelfde uitziet. Dus voer ook de `placeholders` in, maak alle velden `required` en
@@ -545,7 +546,7 @@ Martijn.
 
 <br><br>
 
-## Opdracht 3: CSS formulier
+## Opdracht 3c - CSS formulier
 
 Op dit moment is alle HTML geschreven, maar het ziet er nog niet zo mooi uit. Schrijf daarom de CSS, zodat het eruit
 ziet als onderstaand ontwerp. Bedenk hoe je `Flexbox` hiervoor kan inzetten.
@@ -554,7 +555,7 @@ ziet als onderstaand ontwerp. Bedenk hoe je `Flexbox` hiervoor kan inzetten.
 
 <br><br>
 
-## Opdracht 4: Responsive
+## Opdracht 3d - Responsive
 
 Je formulier ziet er nu mooi uit! Maar op mobile wordt het erg krap. Zorg er daarom voor dat jouw formulier eruit ziet
 zoals in onderstaand ontwerp.
@@ -563,7 +564,7 @@ zoals in onderstaand ontwerp.
 
 <br><br>
 
-## Opdracht 5: Validatie
+## Opdracht 3e - Validatie
 
 Jouw formulier ziet er nu mooi uit én is goed leesbaar op mobile. De laatste stap is om `validatie` toe te passen. Dat
 betekent dat je aangeeft welke velden correct zijn ingevoerd en welke nog niet. Dus wanneer er bijvoorbeeld geen naam
@@ -574,7 +575,7 @@ ingevoerd moeten worden. Zorg er daarom voor dat jouw formulier er hetzelfde uit
 
 <br><br>
 
-## Opdracht 6: het formulier versturen
+## Opdracht 3f - het formulier versturen
 
 Tijdens dit vak ga je niet leren hoe je dit formulier kan verzenden, dat komt in de volgende periode. Om je toch te
 laten zien dat je dit formulier nu daadwerkelijk kan verzenden hebben we een testfunctie gemaakt waardoor jouw

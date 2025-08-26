@@ -13,7 +13,7 @@
 - [Animation](#animation)
 - [Position fixed](#position-fixed)
   - [Sticky](#sticky)
-- [Opdracht: Foodblog animeren](#opdracht-foodblog-animeren)
+- [Opdracht 1 - Foodblog animeren](#opdracht-1---foodblog-animeren)
   - [Transition op nav bar](#transition-op-nav-bar)
   - [Fixed nav bar](#fixed-nav-bar)
   - [Fancy cards](#fancy-cards)
@@ -243,7 +243,7 @@ nav.sticky {
 
 <br><br><br>
 
-# Opdracht: Foodblog animeren
+# Opdracht 1 - Foodblog animeren
 
 Voer onderstaande opdrachten uit op de Foodblog die je in een eerdere les hebt gemaakt. Maak eventueel een kopie van
 dat project als je het origineel wilt behouden.

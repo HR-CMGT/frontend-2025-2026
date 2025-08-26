@@ -4,6 +4,8 @@
 
 - [Eindopdracht](#eindopdracht)
   - [De eindopdracht](#de-eindopdracht)
+  - [Inleveren](#inleveren)
+  - [Voorbereiding](#voorbereiding)
   - [Hulpbronnen](#hulpbronnen)
   - [Wireframes nabouwen](#wireframes-nabouwen)
     - [Desktop wireframe - Home](#desktop-wireframe---home)
@@ -17,6 +19,29 @@
 
 De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden in de cursushandleiding. <br> **_Lees de
 cursushandleiding aandachtig door!_**
+
+⚠️ Het is de bedoeling dat je alleen de **_stof uit de voorgaande lessen_** gebruikt om je gekozen wireframe om te
+zetten naar HTML en CSS. <br> ⚠️ Je schrijft alle code zelf.
+
+<br>
+
+## Inleveren
+
+@TODO: vervang in het hele project de oude URL van Brightspace
+
+Maak een screencast en ga naar [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/topics/464210) voor de
+deadline om daar je screencast in te leveren.
+
+<br>
+
+## Voorbereiding
+
+- Verzamel content in de vorm van foto's en tekst. Het mag een fictief product zijn of een bestaand product. Zorg dat
+  er voldoende content is om de website body te geven en gebruik geen _placeholder teksten_ of _placeholder
+  afbeeldingen_. Je kan eventueel ChatGPT gebruiken om een _fake product_ voor je te bedenken en bijbehorende teksten
+  te genereren.
+- Stel een huisstijlkleur vast. Dit wordt de basiskleur van je buttons en accent elementen.
+- Kies een Google Font. Je mag een apart font voor headers en body tekst gebruiken.
 
 <br>
 
