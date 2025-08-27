@@ -8,6 +8,7 @@
 - [Minipuzzels - Nested Flexbox](#minipuzzels---nested-flexbox)
 - [Google Fonts](#google-fonts)
 - [De tussenopdracht](#de-tussenopdracht)
+  - [Inleveren](#inleveren)
   - [Stap 1: Nieuw project aanmaken](#stap-1-nieuw-project-aanmaken)
   - [Stap 2: Wireframe nabouwen](#stap-2-wireframe-nabouwen)
     - [Van wireframe naar ontwerp](#van-wireframe-naar-ontwerp)
@@ -61,6 +62,14 @@ Doorloop de volgende stappen om een font van Google te gebruiken:
 # De tussenopdracht
 
 De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden in de **_cursushandleiding_**.
+
+<br>
+
+## Inleveren
+
+Maak een screencast en ga naar
+[Brightspace](https://brightspace.hr.nl/d2l/lms/dropbox/user/folder_submit_files.d2l?db=97467&grpid=0&isprv=0&bp=0&ou=192811)
+voor de deadline om daar je screencast in te leveren.
 
 <br>
 

@@ -27,10 +27,9 @@ zetten naar HTML en CSS. <br> ⚠️ Je schrijft alle code zelf.
 
 ## Inleveren
 
-@TODO: vervang in het hele project de oude URL van Brightspace
-
-Maak een screencast en ga naar [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/110777/topics/464210) voor de
-deadline om daar je screencast in te leveren.
+Maak een screencast en ga naar
+[Brightspace](https://brightspace.hr.nl/d2l/lms/dropbox/user/folder_submit_files.d2l?db=97504&grpid=0&isprv=0&bp=0&ou=192811)
+voor de deadline om daar je screencast in te leveren.
 
 <br>
 
