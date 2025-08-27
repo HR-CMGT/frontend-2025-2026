@@ -28,8 +28,7 @@ CSS-bestand.
 
 ## Startcode downloaden
 
-<a href="https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308" target="_blank">Download de startcode uit
-Brightspace.</a>
+[Download de startcode uit Brightspace.](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308)
 
 <br>
 

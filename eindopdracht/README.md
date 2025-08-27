@@ -4,6 +4,7 @@
 
 - [Eindopdracht](#eindopdracht)
   - [De eindopdracht](#de-eindopdracht)
+  - [Voorbeeld screencast](#voorbeeld-screencast)
   - [Inleveren](#inleveren)
   - [Voorbereiding](#voorbereiding)
   - [Hulpbronnen](#hulpbronnen)
@@ -25,11 +26,17 @@ zetten naar HTML en CSS. <br> ⚠️ Je schrijft alle code zelf.
 
 <br>
 
+## Voorbeeld screencast
+
+In [deze video op Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/852459) krijg je een uitleg over
+wat er in jouw screencast moet zitten en kun je een voorbeeld bekijken.
+
+<br>
+
 ## Inleveren
 
-Maak een screencast en ga naar
-[Brightspace](https://brightspace.hr.nl/d2l/lms/dropbox/user/folder_submit_files.d2l?db=97504&grpid=0&isprv=0&bp=0&ou=192811)
-voor de deadline om daar je screencast in te leveren.
+Maak een screencast en ga naar [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/852693) om jouw
+screencast in te leveren.
 
 <br>
 

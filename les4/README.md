@@ -8,6 +8,7 @@
 - [Minipuzzels - Nested Flexbox](#minipuzzels---nested-flexbox)
 - [Google Fonts](#google-fonts)
 - [De tussenopdracht](#de-tussenopdracht)
+  - [Voorbeeld screencast](#voorbeeld-screencast)
   - [Inleveren](#inleveren)
   - [Stap 1: Nieuw project aanmaken](#stap-1-nieuw-project-aanmaken)
   - [Stap 2: Wireframe nabouwen](#stap-2-wireframe-nabouwen)
@@ -65,11 +66,17 @@ De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden i
 
 <br>
 
+## Voorbeeld screencast
+
+In [deze video op Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/852459) krijg je een uitleg over
+wat er in jouw screencast moet zitten en kun je een voorbeeld bekijken.
+
+<br>
+
 ## Inleveren
 
-Maak een screencast en ga naar
-[Brightspace](https://brightspace.hr.nl/d2l/lms/dropbox/user/folder_submit_files.d2l?db=97467&grpid=0&isprv=0&bp=0&ou=192811)
-voor de deadline om daar je screencast in te leveren.
+Maak een screencast en ga naar [Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/852692) om jouw
+screencast in te leveren.
 
 <br>
 
