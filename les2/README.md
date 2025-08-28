@@ -9,6 +9,7 @@
 - [Semantische tags](#semantische-tags)
   - [Waarom semantische tags?](#waarom-semantische-tags)
   - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
+  - [Headings](#headings)
   - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
 - [Quiz over semantische HTML-tags](#quiz-over-semantische-html-tags)
 - [Werken met de inspector](#werken-met-de-inspector)
@@ -85,6 +86,18 @@ alle tags, maar wel de veel voorkomende.
 
 > ⚠️ Let op: de tag `<div>` is dus **_niet_** semantisch. Je mag hem wel gebruiken binnen semantische tags als
 > `<section>`, maar niet ter vervanging ervan.
+
+<br>
+
+## Headings
+
+Titels noemen we in HTML headings. Net zoals je dat in een schriftelijk verslag doet werk je met titels en subtitels.
+De `<h1>` is de hoofdtitel. Iedere pagina mag er hiervan altijd maar 1 hebben. Daaronder valt `<h2>` en als daaronder
+nog een subtitel nodig is dan gebruik je `<h3>` tot maximaal `<h6>`. Het is belangrijk dat je dit op de juiste manier
+toepast, zodat het meteen duidelijk welke titels er bij elkaar horen.
+
+Meer info over headings
+[vind je hier](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements).
 
 <br>
 

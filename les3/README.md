@@ -54,7 +54,7 @@ Het is met Flexbox trouwens ook mogelijk om elementen weer onder elkaar te zette
 
 <br><br>
 
-> Naast Flexbox heb je ook nog Grid. Deze techniek staat ook in de Expert-kolom in het beoordelingsmodel. Wil je hier
+> Naast Flexbox heb je ook nog Grid. Deze techniek staat bij de extra onderdelen in het beoordelingsmodel. Wil je hier
 > meer over weten? Zie de [hulpbronnen bij de eindopdracht](../eindopdracht/).
 
 <br>
@@ -137,10 +137,11 @@ klik rechts van `display: flex` op het Flexbox-knopje. Voor meer info, bekijk de
 
 ## Hulpbronnen voor Flexbox
 
-- [Flexbox basics cheatsheet](./images/flex-cheatsheet.pdf)<br>![Flexbox cheatsheet](./images/flex-cheatsheet.png)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Video: CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
 - [Video waarin flex-grow, flex-shrink en flex-basis wordt uitgelegd met voorbeelden](https://www.youtube.com/watch?v=CFgeJq4l1YM)
+- [Flexbox stap voor stap uitgelegd](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [Flexbox basics cheatsheet](./images/flex-cheatsheet.pdf)<br>![Flexbox cheatsheet](./images/flex-cheatsheet.png)
 
 <br><br> **Klaar met het hoofdstuk over Flexbox?** <br>
 [Klik dan hier om naar de minipuzzels over Flexbox te gaan.](minipuzzels/flexbox/)

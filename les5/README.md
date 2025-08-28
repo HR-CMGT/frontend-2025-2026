@@ -104,6 +104,8 @@ automatisch worden meegenomen in de berekening. Dit kan je corrigeren met:
 }
 ```
 
+In [deze video](https://www.youtube.com/watch?v=WlGQdgy-M6w) wordt dit verder uitgelegd.
+
 <br>
 
 ## Calc

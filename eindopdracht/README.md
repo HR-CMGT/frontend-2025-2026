@@ -60,12 +60,12 @@ Om jezelf nog verder te helpen volgen hier enkele hulpbronnen:
 - CSS Grid
   - [Documentatie op W3Schools](https://www.w3schools.com/css/css_grid.asp)
   - [Documentatie op Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout)
+  - [Stap voor stap uitleg van CSS grid](https://www.joshwcomeau.com/css/interactive-guide-to-grid/)
   - [Video waarin alle mogelijkheden worden getoond met demo's](https://youtu.be/EiNiSFIPIQE?si=3hd2dZh_BLXVhWhj)
   - [Spelletje om CSS grid te leren gebruiken](https://cssgridgarden.com/#nl)
-- srcset
-  - [Documentatie op Mozilla](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
-  - [Video met beknopte uitleg over srcset](https://www.youtube.com/watch?v=SyVKRnusyqM)
-  - [Video met uitgebreide uitleg over srcset (aanrader!)](https://www.youtube.com/watch?v=2QYpkrX2N48)
+- CSS variabelen
+  - [Documentatie op W3Schools](https://www.w3schools.com/css/css3_variables.asp)
+  - [Documentatie op MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_cascading_variables/Using_CSS_custom_properties)
 - Semantische HTML
   - [Veelgebruikte semantische HTML-tags](https://www.w3schools.com/html/html5_semantic_elements.asp)
   - [Lijst met alle HTML-tags](https://www.w3schools.com/TAGS/default.asp) (alleen `<div>` en `<span>` zijn niet
