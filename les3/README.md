@@ -137,7 +137,7 @@ klik rechts van `display: flex` op het Flexbox-knopje. Voor meer info, bekijk de
 
 ## Hulpbronnen voor Flexbox
 
-- [Flexbox basics cheatsheet](./images/flex-cheatsheet.pdf)<br>![Flexbox cheatsheet](./images/flex-cheatsheet.png)
+- [Flexbox basics cheatsheet](./images/flex-cheatsheet-2025.pdf)<br>![Flexbox cheatsheet](./images/flex-cheatsheet-2025.png)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Video: CSS Flexbox in 100 Seconds](https://www.youtube.com/watch?v=K74l26pE4YA)
 - [Video waarin flex-grow, flex-shrink en flex-basis wordt uitgelegd met voorbeelden](https://www.youtube.com/watch?v=CFgeJq4l1YM)
