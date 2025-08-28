@@ -83,6 +83,10 @@ je hele schoolcarrière (en waarschijnlijk daarna) gebruiken, dus die ga je mete
 2. Klik op de knop om in te loggen en maak een GitHub-account aan als je deze nog niet hebt (kies een passende
    gebruikersnaam, iedereen (waaronder docenten) zullen deze naam zien);
 
+<img  src="./images/ask.png" alt="ask" title="ask" width="700"/>
+
+3. Zet copilot op "ASK" mode.
+
 <br>
 
 Copilot is nu geconfigureerd en je kunt het gaan gebruiken. In een latere les leer je er optimaal mee werken.

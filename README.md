@@ -1,4 +1,4 @@
-# Front-end Development 2024-2025
+# Front-end Development 2025-2026
 
 ## Programma
 

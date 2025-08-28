@@ -34,8 +34,8 @@ CSS-bestand.
 
 **Hulpbronnen voor de minipuzzels**
 
-- <a href="../../images/flex-cheatsheet.pdf" target="_blank">Flexbox basics
-  cheatsheet</a><br><a href="../../images/flex-cheatsheet.pdf" target="_blank"><img src="../../images/flex-cheatsheet.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300"></a>
+- <a href="../../images/flex-cheatsheet-2025.pdf" target="_blank">Flexbox basics
+  cheatsheet</a><br><a href="../../images/flex-cheatsheet-2025.pdf" target="_blank"><img src="../../images/flex-cheatsheet-2025.png" alt="Flexbox cheatsheet" title="Flexbox cheatsheet" width="300"></a>
 - <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">A Complete Guide to Flexbox</a>
 - <a href="https://www.youtube.com/watch?v=CFgeJq4l1YM" target="_blank">Video waarin flex-grow, flex-shrink en
   flex-basis wordt uitgelegd</a>
