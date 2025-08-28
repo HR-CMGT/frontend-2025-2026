@@ -9,7 +9,7 @@
 - [Semantische tags](#semantische-tags)
   - [Waarom semantische tags?](#waarom-semantische-tags)
   - [Semantische tags voor structuur](#semantische-tags-voor-structuur)
-  - [Headings](#headings)
+  - [Headings (`<h1> - <h6>`)](#headings-h1---h6)
   - [Valkuil van semantische tags](#valkuil-van-semantische-tags)
 - [Quiz over semantische HTML-tags](#quiz-over-semantische-html-tags)
 - [Werken met de inspector](#werken-met-de-inspector)
@@ -89,7 +89,7 @@ alle tags, maar wel de veel voorkomende.
 
 <br>
 
-## Headings
+## Headings (`<h1> - <h6>`)
 
 Titels noemen we in HTML headings. Net zoals je dat in een schriftelijk verslag doet werk je met titels en subtitels.
 De `<h1>` is de hoofdtitel. Iedere pagina mag er hiervan altijd maar 1 hebben. Daaronder valt `<h2>` en als daaronder
