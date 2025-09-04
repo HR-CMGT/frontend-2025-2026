@@ -29,7 +29,7 @@ In deze les ligt de focus op het volgende leerdoel:
 <br>
 
 Alle leerdoelen zijn terug te vinden in de
-[cursushandleiding](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/879287).
+[cursushandleiding](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/879825).
 
 <br><br><br>
 
@@ -155,8 +155,6 @@ klik rechts van `display: flex` op het Flexbox-knopje. Voor meer info, bekijk de
 <br><br><br>
 
 # Navigatie
-
-@TODO: voeg gedeelte over "scroll to top" toe.
 
 In de vorige lessen heb je al vaker met `<nav>` gewerkt en in deze les duiken we daar dieper op in. Je weet al dat je
 in de `<nav>` een `<a>` invoert voor ieder linkje die je wilt tonen. Maar hoe stel je dit linkje correct in? En hoe kan

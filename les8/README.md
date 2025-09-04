@@ -18,14 +18,14 @@
 
 In deze les ligt de focus op het volgende leerdoel:
 
-| Leerdoel                                                                                                                                | Toelichting                   |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| 4. Ik kan uitleggen hoe AI-tools het leerproces kunnen ondersteunen en kan de kwaliteit van de gegenereerde output kritisch beoordelen. | In deze les leer je ... @TODO |
+| Leerdoel                                                                                                                                | Toelichting                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 4. Ik kan uitleggen hoe AI-tools het leerproces kunnen ondersteunen en kan de kwaliteit van de gegenereerde output kritisch beoordelen. | In deze les leer je hoe je gegenereerde code kritisch kan beoordelen. |
 
 <br>
 
 Alle leerdoelen zijn terug te vinden in de
-[cursushandleiding](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/879287).
+[cursushandleiding](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/879825).
 
 <br><br><br>
 

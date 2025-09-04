@@ -42,7 +42,7 @@ In deze les ligt de focus op het volgende leerdoel:
 <br>
 
 Alle leerdoelen zijn terug te vinden in de
-[cursushandleiding](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/879287).
+[cursushandleiding](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/879825).
 
 <br><br><br>
 
