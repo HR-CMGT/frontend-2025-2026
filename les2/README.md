@@ -44,8 +44,8 @@ In deze les ligt de focus op de volgende leerdoelen:
 
 <br>
 
-Alle leerdoelen zijn terug te vinden in de [cursushandleiding](https://brightspace.hr.nl/d2l/home/192811) @TODO: juiste
-link invoeren.
+Alle leerdoelen zijn terug te vinden in de
+[cursushandleiding](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/879287).
 
 <br><br><br>
 
