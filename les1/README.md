@@ -13,11 +13,11 @@
   - [opdracht 1e - Eerste project aanmaken](#opdracht-1e---eerste-project-aanmaken)
   - [Opdracht 1e - Bestandsstructuur HTML en CSS](#opdracht-1e---bestandsstructuur-html-en-css)
   - [Opdracht 1f - Code testen](#opdracht-1f---code-testen)
-- [Opdracht 2 - Minipuzzels padding \& margin](#opdracht-2---minipuzzels-padding--margin)
-- [Opdracht 3 - HTML](#opdracht-3---html)
-- [Opdracht 4 - Basisstructuur HTML](#opdracht-4---basisstructuur-html)
-- [Opdracht 5 - CSS](#opdracht-5---css)
-- [Opdracht 6 - Images](#opdracht-6---images)
+- [Minipuzzels padding \& margin](#minipuzzels-padding--margin)
+- [Opdracht 2 - HTML](#opdracht-2---html)
+- [Opdracht 3 - Basisstructuur HTML](#opdracht-3---basisstructuur-html)
+- [Opdracht 4 - CSS](#opdracht-4---css)
+- [Opdracht 5 - Images](#opdracht-5---images)
 
 <br><br><br>
 
@@ -158,13 +158,13 @@ de volgende stappen leer je hoe je deze extensie gebruikt.
 
 <br>
 
-# Opdracht 2 - Minipuzzels padding & margin
+# Minipuzzels padding & margin
 
 [Klik hier om de naar de minipuzzels te gaan.](./minipuzzels)
 
 <br><br><br>
 
-# Opdracht 3 - HTML
+# Opdracht 2 - HTML
 
 Bouw het volgende ontwerp na _(klik op de afbeelding om te vergroten)_. <br> In de tabel hieronder zie je welke
 HTML-tags je nodig hebt voor deze opdracht.
@@ -202,7 +202,7 @@ Je hebt hier het volgende voor nodig:
 
 <br><br><br>
 
-# Opdracht 4 - Basisstructuur HTML
+# Opdracht 3 - Basisstructuur HTML
 
 Nu je de tekstuele elementen in de vorige opdracht hebt aangemaakt, wordt het tijd om hier structuur in aan te brengen
 met semantische tags. Zoals je in onderstaand ontwerp ziet, zal na deze opdracht de pagina visueel nog niet veranderd
@@ -233,7 +233,7 @@ Je hebt hier het volgende voor nodig:
 
 <br><br><br>
 
-# Opdracht 5 - CSS
+# Opdracht 4 - CSS
 
 Bouw het volgende ontwerp na _(klik op de afbeelding om te vergroten)_. <br> De HTML van de pagina staat nu volledig,
 dus het wordt tijd om hier styling aan te geven met CSS. In de tabel hieronder zie je wat je nodig hebt in de CSS voor
@@ -266,7 +266,7 @@ Je hebt hier het volgende voor nodig:
 
 <br><br><br>
 
-# Opdracht 6 - Images
+# Opdracht 5 - Images
 
 Voeg één of meerdere afbeeldingen toe aan jouw pagina. Je mag zelf bepalen welke afbeeldingen je voor deze oefening
 gebruikt en waar je ze op de pagina toevoegt. Dit werkt iets anders dan je gewend bent in Codepen. Je zult de
