@@ -236,14 +236,14 @@ responsieve ontwerpen te creëren. De voor- en nadelen hiervan zijn:
 
 Hieronder vind je de tabel met de meestgebruikte units.
 
-| Naam unit | Type     | Omschrijving                                                                                                                                                      | Voorbeeld            |
-| --------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ _Gebruik alleen `px` wanneer geen van onderstaande volstaat._               | `width: 200px;`      |
-| `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                                | `width: 100%;`       |
-| `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                    | `width: 50vw;`       |
-| `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                     | `height: 100vh;`     |
-| `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld. Gebruik voor `font-size` altijd `rem`. | `font-size: 1.5rem;` |
-| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ _Gebruik liever `rem` dan `em` omdat die makkelijker te gebruiken is._ | `font-size: 2em;`    |
+| Naam unit | Type     | Omschrijving                                                                                                                                                                     | Voorbeeld            |
+| --------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| `px`      | Absoluut | Hiermee bepaal je exact hoeveel pixels op je scherm er gebruikt moeten worden.<br> ⚠️ _Gebruik alleen `px` wanneer geen van onderstaande volstaat._                              | `width: 200px;`      |
+| `%`       | Relatief | Hiermee wordt de waarde bepaald op basis van de breedte of hoogte van de `parent`.                                                                                               | `width: 100%;`       |
+| `vw`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `breedte` van de viewport (het zichtbare deel van de browser).                                                                   | `width: 50vw;`       |
+| `vh`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `hoogte` van de viewport (het zichtbare deel van de browser).                                                                    | `height: 100vh;`     |
+| `rem`     | Relatief | Hiermee wordt de waarde bepaald op basis van de `root font-size`, oftewel de font-size die op de `<html>` staat ingesteld. Gebruik voor `font-size` altijd `rem`.                | `font-size: 1.5rem;` |
+| `em`      | Relatief | Hiermee wordt de waarde bepaald op basis van de `font-size` van het parent-element.<br> ⚠️ _Gebruik voor font-size liever `rem` dan `em` omdat die makkelijker te gebruiken is._ | `font-size: 2em;`    |
 
 De vraag die je jezelf iedere keer weer moet stellen is:
 
