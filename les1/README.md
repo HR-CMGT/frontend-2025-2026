@@ -78,7 +78,7 @@ je hele schoolcarrière (en waarschijnlijk daarna) gebruiken, dus die ga je mete
 
 1. Klik op de knop van Copilot (zie screenshot hieronder);
 
-<img  src="./images/Opdracht1c.png" alt="Opdracht 1c" title="Opdracht 1c" width="1012"/>
+<img  src="./images/Opdracht1c.png" alt="Opdracht 1c" title="Opdracht 1c" width="700"/>
 
 2. Klik op de knop om in te loggen en maak een GitHub-account aan als je deze nog niet hebt (kies een passende
    gebruikersnaam, iedereen (waaronder docenten) zullen deze naam zien);
@@ -87,7 +87,7 @@ je hele schoolcarrière (en waarschijnlijk daarna) gebruiken, dus die ga je mete
 
 3. Zet copilot op "ASK" mode.
 
-<img  src="./images/ask.png" alt="ask" title="ask" width="600"/>
+<img  src="./images/inline-completions-off.png" alt="ask" title="ask" width="600"/>
    
 4. Zet "inline completions" **uit**. Dit zijn code suggesties die automatisch in je editor verschijnen zonder dat je er om vraagt.
 
