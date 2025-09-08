@@ -11,8 +11,8 @@
   - [Opdracht 1b - Extensie Live Server installeren](#opdracht-1b---extensie-live-server-installeren)
   - [Opdracht 1c - Copilot configureren](#opdracht-1c---copilot-configureren)
   - [opdracht 1e - Eerste project aanmaken](#opdracht-1e---eerste-project-aanmaken)
-  - [Opdracht 1e - Bestandsstructuur HTML en CSS](#opdracht-1e---bestandsstructuur-html-en-css)
-  - [Opdracht 1f - Code testen](#opdracht-1f---code-testen)
+  - [Opdracht 1f - Bestandsstructuur HTML en CSS](#opdracht-1f---bestandsstructuur-html-en-css)
+  - [Opdracht 1g - Code testen](#opdracht-1g---code-testen)
 - [Minipuzzels padding \& margin](#minipuzzels-padding--margin)
 - [Opdracht 2 - HTML](#opdracht-2---html)
 - [Opdracht 3 - Basisstructuur HTML](#opdracht-3---basisstructuur-html)
@@ -109,7 +109,7 @@ maak je (op een later moment) weer een nieuw project aan.
 
 <br><br>
 
-## Opdracht 1e - Bestandsstructuur HTML en CSS
+## Opdracht 1f - Bestandsstructuur HTML en CSS
 
 Wanneer je met HTML en CSS werkt heb je altijd een bepaalde `bestandsstructuur` nodig van bestanden en mappen. Dat ga
 je in deze opdracht aanmaken. Allereerst is het goed om te weten dat je door de lessen heen een aantal hoofdopdrachten
@@ -136,7 +136,7 @@ de linkerzijde, rechts van de projectnaam.
 
 <br><br>
 
-## Opdracht 1f - Code testen
+## Opdracht 1g - Code testen
 
 Het project is gereed en je bent klaar om te beginnen met programmeren! Om de door jou geschreven code te testen heb je
 de extensie `Live Server` nodig (geïnstalleerd in [opdracht 1b](#opdracht-1b---extensie-live-server-installeren)). Met
