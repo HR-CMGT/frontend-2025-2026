@@ -84,8 +84,8 @@ alle tags, maar wel de veel voorkomende.
 | `<article>` | Een `<article>` gebruik je om een stukje content te groeperen dat zelfstandig leesbaar is. Voorbeelden hiervan zijn: een forumbericht, een tijdschrift- of krantenartikel, of een blogbericht, een productkaart, een door een gebruiker ingediende opmerking, een interactieve widget of gadget, of enig ander onafhankelijk inhoudsitem.                                                                                                                                                                                                                                      |
 | `<aside>`   | Wordt gebruikt om content weer te geven die indirect gerelateerd is aan de hoofdinhoud van de `<section>` of `<article>`waarin die geplaatst is. Ook kan die daarbuiten worden geplaatst, bijvoorbeeld direct in de `<body>`, dan moet de content gerelateerd zijn aan de website zelf, bijvoorbeeld tweets van de auteur, aanvullende navigatie, laatste blogberichten, laatste opmerkingen, etc. Let op: de `<aside>` is iets anders dan een sidebar. <a href="https://aastudio.fr/Sidebar-and-Aside-are-different.html" target="_blank">Lees meer</a>                       |
 
-> ⚠️ Let op: de tag `<div>` is dus **_niet_** semantisch. Je mag hem wel gebruiken binnen semantische tags als
-> `<section>`, maar niet ter vervanging ervan.
+> ⚠️ Let op: de tag `<div>` is dus **_niet_** semantisch. Je mag hem wel gebruiken binnen semantische tags zoals een
+> `<section>` wanneer het puur nodig is voor de vormgeving, maar niet ter vervanging ervan.
 
 <br>
 
