@@ -76,24 +76,25 @@ mogelijk om code te genereren. In deze opdracht ga je Copilot configureren. Je h
 GitHub-account. GitHub is een platform waarop je code kunt plaatsen en delen met anderen. Dit platform ga je gedurende
 je hele schoolcarrière (en waarschijnlijk daarna) gebruiken, dus die ga je meteen aanmaken.
 
-1. Klik op de knop van Copilot (zie screenshot hieronder);
+1. Klik op de knop van Copilot. Dit staat bovenaan het scherm in het midden, rechts van de naam van het project (zie
+   screenshot hieronder);
 
 <img  src="./images/Opdracht1c.png" alt="Opdracht 1c" title="Opdracht 1c" width="700"/>
 
 2. Klik op de knop om in te loggen en maak een GitHub-account aan als je deze nog niet hebt (kies een passende
    gebruikersnaam, iedereen (waaronder docenten) zullen deze naam zien);
 
+3. Zet copilot op "Ask" mode.
+
 <img  src="./images/ask.png" alt="ask" title="ask" width="600"/>
-
-3. Zet copilot op "ASK" mode.
-
-<img  src="./images/inline-completions-off.png" alt="ask" title="ask" width="600"/>
    
-4. Zet "inline completions" **uit**. Dit zijn code suggesties die automatisch in je editor verschijnen zonder dat je er om vraagt.
+4. Zet "inline completions" **uit**. Dit zijn code suggesties die tijdens het typen van code automatisch in je editor verschijnen zonder dat je er om vraagt en zit het leren in de weg. Klik hiervoor rechts onderin op het icoontje van Copilot en vink "All files" en "HTML" uit (zie screenshot hieronder).
+ 
+<img  src="./images/inline-completions-off.png" alt="ask" title="ask" width="600"/>
 
 <br>
 
-Copilot is nu geconfigureerd en je kunt het gaan gebruiken. In een latere les leer je er optimaal mee werken.
+Copilot is nu geconfigureerd en je kunt het gebruiken. Gedurende de lessen leer je er optimaal mee werken.
 
 <br><br>
 
