@@ -83,9 +83,13 @@ je hele schoolcarrière (en waarschijnlijk daarna) gebruiken, dus die ga je mete
 2. Klik op de knop om in te loggen en maak een GitHub-account aan als je deze nog niet hebt (kies een passende
    gebruikersnaam, iedereen (waaronder docenten) zullen deze naam zien);
 
-<img  src="./images/ask.png" alt="ask" title="ask" width="700"/>
+<img  src="./images/ask.png" alt="ask" title="ask" width="600"/>
 
 3. Zet copilot op "ASK" mode.
+
+<img  src="./images/ask.png" alt="ask" title="ask" width="600"/>
+   
+4. Zet "inline completions" **uit**. Dit zijn code suggesties die automatisch in je editor verschijnen zonder dat je er om vraagt.
 
 <br>
 
