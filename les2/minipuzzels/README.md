@@ -47,8 +47,8 @@ balk 1 en 2 even breed.
 
 Balk 3 staat net als balk 1 ingesteld op `50%`, maar toch zie je verschil in breedte. Dit komt omdat balk 3 en 4 in een
 `<section>` staan met een breedte van `500px`. Zoals gezegd stel je met `%` de waarde relatief aan de parent in. Bij
-balk 1 is de parent de `<body>`, welke even breed is als het scherm. Bij balk 3 is de parent de `<section>` met een
-breedte van `500px`, waardoor balk 3 een breedte van `250px` krijgt.
+balk 1 is de parent de `<body>`, welke even breed is als het scherm. Bij balk 3 is de parent de `<section>` die een
+breedte van `500px` heeft. Hierdoor is de breedte van balk 3 dus `50%` van `500px`, wat neerkomt op `250px`.
 
 Daarentegen blijft balk 4 even breed als balk 2, omdat deze relatief is aan de viewport-width en die blijft hetzelfde.
 
