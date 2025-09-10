@@ -77,10 +77,16 @@ samen exact de hoogte van het scherm innemen.
 
 ## Minipuzzel 4
 
-Open de CSS van `Minipuzzel 4` en geef ieder tekstelement een `font-size` met de unit `rem`.
+Open de CSS van `Minipuzzel 4`, maak voor ieder tekstelement dat in de `index.html` staat een selector aan en geef ze
+allemaal een `font-size` met de unit `rem`. Dit kunnen hele getallen zijn, zoals `2`, maar je kan ook waardes als `1.3`
+of `3.7` instellen.
 
-Wanneer je dit voor alle tekstelementen hebt ingesteld, pas dan de `font-size` van `html` aan. Zorg ervoor dat dit wél
-een absolute waarde is, dus gebruik hiervoor `px`. Speel met deze waarde om te zien wat het effect hiervan is.
+Nadat je dit hebt ingesteld kun je het effect zien wanneer de basis font-size van de pagina wordt veranderd. Een
+gebruiker zal dit doen door in de instellingen van de browser de lettergrootte aan te passen. Zoek deze instelling in
+jouw browser op en speel met deze instelling om het effect ervan te zien. Mocht je deze instelling niet kunnen vinden,
+dan kun je ook de font-size van de `html` tag aanpassen. Voor het testen zou je hiervoor `px` kunnen gebruiken, maar
+zorg ervoor dat je in een website die echt gebruikt wordt hiervoor nooit een `absolute unit` gebruikt, omdat hierdoor
+de instelling van de browser wordt overschreven.
 
 <img src="images/Minipuzzel4.png" alt="Oefening 4" title="Oefening 4" width="1012">
 
