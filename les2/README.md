@@ -377,7 +377,7 @@ Je hebt hier het volgende voor nodig:
 **Hulpbronnen opdracht 2**
 
 - <a href="../les1/cheatsheet/Cheatsheet-HTML-CSS.pdf" target="_blank">Cheatsheet HTML & CSS</a>
-- <a href="https://www.youtube.com/watch?v=apC46Wfvd94" target="_blank" title="Introductievideo CSS">Introductievideo
+- <a href="https://www.youtube.com/watch?v=7KrEybPFC48" target="_blank" title="Introductievideo CSS">Introductievideo
   CSS</a> (_bekijk tot 11:00, het deel erna is niet van toepassing voor dit vak_)
 
 > ### Kleuren bepalen
