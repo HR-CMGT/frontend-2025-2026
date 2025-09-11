@@ -266,13 +266,10 @@ a:active {
 
 # Opdracht 2: Foodblog
 
-In de vorige opdracht heb je de foodblog gegenereert en geleerd waar AI toe in staat is, maar ook dat het belangrijk is
-dat je zelf weet wat er zich onder de motorkap afspeelt. Daarom ga je de foodblog nogmaals maken, maar dan volledig met
-de hand, zodat je goed leert hoe je o.a. Flexbox moet toepassen.
-
-Download de startcode als je dat nog niet had gedaan
-([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308)) en bouw vervolgens het volgende
-ontwerp na _(klik op de afbeelding om te vergroten)_.
+In deze opdracht ga je onderstaand ontwerp van een foodblog namaken. Hiervoor heb je op meerdere plekken Flexbox nodig.
+Om je een snelle start te geven staat er al startcode voor je klaar. Download de startcode als je dat nog niet had
+gedaan ([zie Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308)) en bouw vervolgens het
+volgende ontwerp na _(klik op de afbeelding om te vergroten)_.
 
 Let op, het gaat om twee pagina's: de homepage met recepten en de detailpagina van een recept. Wanneer er op de
 homepage wordt geklikt op **Bekijk recept** moet er dus naar de detailpagina worden genavigeerd. <br> De
