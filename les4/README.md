@@ -114,14 +114,13 @@ Hieronder staan nog enkele tips om je hierbij te helpen.
 >
 > - Bouw eerst de basisstructuur op met `semantic` tags;
 > - Bouw één voor één de rijen na, in plaats van alles tegelijk op te willen lossen;
-> - Gebruik `display:flex` om elementen naast elkaar te zetten;
+> - Gebruik `display:flex` om elementen te positioneren;
 > - Hou de `flex-documentatie` bij de hand, en gebruik de `flex-inspector` in je browser.
 > - Je mag `<div>` gebruiken om binnen sections containers aan te maken, wanneer je dit puur voor de styling nodig
 >   hebt;
-> - Gebruik `padding` om witruimte toe te voegen binnen je containers.
 > - Ruimte buiten de containers voeg je toe met `flex` eigenschappen zoals `gap` en `justify-content`. Als je container
 >   geen onderdeel van flex layout is, dan gebruik je `margin`.
-> - Je kan de hele opdracht oplossen met de stof uit de lessen, je hebt geen google/stackoverflow/chatgpt nodig.
+> - Je kan de hele opdracht oplossen met de stof uit de lessen.
 > - Als iets niet lukt kan je je medestudenten, peercoaches en docenten om hulp vragen!
 
 <br>
