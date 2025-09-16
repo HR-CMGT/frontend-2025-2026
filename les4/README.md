@@ -68,8 +68,10 @@ De informatie over de opdracht, het inleveren en de voorwaarden zijn te vinden i
 
 ## Voorbeeld screencast
 
-In [deze video op Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/852459) krijg je een uitleg over
-wat er in jouw screencast moet zitten en kun je een voorbeeld bekijken.
+Op Brightspace vind je een video met een
+[uitleg over het maken van een screencast](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/888701). Ook vind je
+er een [voorbeeld screencast](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/888973) waarin één basiseis wordt
+voorgedaan.
 
 <br>
 
