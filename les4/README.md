@@ -50,13 +50,15 @@ Doorloop de volgende stappen om een font van Google te gebruiken:
 
 1. Ga naar [https://fonts.google.com/](https://fonts.google.com/);
 2. Vind de font die je wilt gebruiken en klik erop;
-3. Scroll naar de verschillende fontstijlen die beschikbaar zijn en klik rechts op het plusje bij de fontstijlen die je
-   wilt gebruiken (klik ze niet zomaar allemaal aan, want hoe meer je er kiest, hoe langer het duurt om jouw pagina te
-   laden);
-4. Klik rechts bovenin op het winkelmandje, selecteer de optie `@import` en kopieer de code die daar staat (zonder de
-   `<style>` tag) en plak deze bovenin jouw CSS-bestand;
-5. Scroll in het winkelmandje nog iets verder naar het kopje `CSS rules to specify families` en kopieer de benodigde
-   CSS-code en plak deze bij de gewenste selector in je CSS-bestand.
+3. Klik rechts bovenin op `Get font` en vervolgens op `Get embed code`.;
+4. Het scherm waarop je nu zit is het winkelmandje. Op dit scherm zie je twee kolommen: in de linker kolom zie je alle
+   fonts die je hebt geselecteerd en kun je eventueel nog instellingen aanpassen. In de rechter kolom zie je de
+   manieren waarop je dit font kunt inladen in jouw website.
+5. Selecteer in de rechter kolom `Web` en vervolgens `@import` en kopieer de code die daar staat (zonder de `<style>`
+   tag) en plak deze bovenin jouw CSS-bestand;
+6. Scroll in het winkelmandje nog iets verder naar het kopje `CSS rules to specify families` en kopieer de benodigde
+   CSS-code en plak deze bovenaan het CSS-bestand. Stel tot slot de font-family in naar het font dat je net hebt
+   geïmporteerd. In het winkelmandje zie je in de rechter kolom hoe de font-family heet.
 
 <br><br><br>
 
