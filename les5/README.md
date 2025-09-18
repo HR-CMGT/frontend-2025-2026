@@ -24,8 +24,7 @@
   - [Verschillende DPI waarden](#verschillende-dpi-waarden)
   - [Werken met picture](#werken-met-picture)
   - [Links](#links)
-- [Opdracht 1: Responsively installeren](#opdracht-1-responsively-installeren)
-- [Opdracht 2: Foodblog responsive](#opdracht-2-foodblog-responsive)
+- [Opdracht 1: Foodblog responsive](#opdracht-1-foodblog-responsive)
   - [Eindresultaat mobile](#eindresultaat-mobile)
   - [Eindresultaat desktop](#eindresultaat-desktop)
 
@@ -313,23 +312,7 @@ te laden. In dit voorbeeld zien we een portret op kleine schermen en een overvie
 
 <br><br><br>
 
-# Opdracht 1: Responsively installeren
-
-Wanneer je jouw website grondig wilt testen op meerdere apparaten is de app Responsively een mooi hulpmiddel. Hierin
-zie je jouw website op meerdere schermgroottes naast elkaar, zodat je de pagina stap voor stap kunt testen. Doorloop de
-volgende stappen om Responsively te installeren:
-
-1. [Klik hier](https://responsively.app/download) om Responsively te downloaden
-2. Voer de installatie op jouw computer uit. Wanneer er wordt gevraagd om een account aan te maken kun je dat skippen,
-   dat is niet nodig om het te gebruiken.
-3. Open jouw website vanuit Visual Studio Code met de Live Server. De website opent zich nu in jouw standaard browser.
-   Kopieer die URL en open deze in Responsively.
-4. ⚠️ Let op: in Responsively wordt _touch_ niet gesimuleerd. Het is dus cruciaal dat je ook nog op een écht apparaat
-   met een touchscreen test, zoals je smartphone.
-
-<br><br><br>
-
-# Opdracht 2: Foodblog responsive
+# Opdracht 1: Foodblog responsive
 
 Hieronder staat het eindresultaat op mobile én op desktop wat je moet zien te bereiken. In
 [de startcode](https://brightspace.hr.nl/d2l/le/lessons/192811/lessons/847308) werkt veel al op desktop, maar nog niet
