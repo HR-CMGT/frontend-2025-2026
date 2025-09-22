@@ -64,7 +64,7 @@ over jouw code, die je vervolgens kan oplossen.
 
 Voer de volgende stappen uit:
 
-1. Ga naar de [W3C validator](https://validator.w3.org/);
+1. Ga naar de [W3C validator](https://validator.w3.org/#validate_by_input);
 2. Standaard vraagt hij om een URL, maar als jouw website nog niet online staat kan je klikken op **_Validate by Direct
    Input_**, waarna je de HTML-code kan kopiëren en plakken;
 3. Klik op de knop **_Check_**;
