@@ -130,7 +130,7 @@ Hieronder vind je een voorbeeld van een standaard formulier:
 <br>
 Dit zit er in de browser als volgt uit:
 
-<img src="images/Form-example1.png" alt="Voorbeeld formulier">
+<img src="images/Form-example-basic.png" alt="Voorbeeld formulier" width="500">
 
 <br><br>
 
@@ -191,6 +191,11 @@ worden:
 ```
 
 <br>
+Dit zit er in de browser als volgt uit met het datum-veld aangeklikt en een placeholder voor het email-veld:
+
+<img src="images/Form-example-date-placeholder.png" alt="Voorbeeld formulier" width="600">
+
+<br>
 
 ### Voorbeeld van select
 
@@ -206,6 +211,11 @@ worden:
 ```
 
 <br>
+Dit zit er in de browser als volgt uit:
+
+<img src="images/Form-example-select.gif" alt="Voorbeeld formulier" width="300">
+
+<br>
 
 ### Checkboxes
 
@@ -219,6 +229,11 @@ worden:
 <input type="checkbox" id="capibara" name="capibara" value="Capibara" />
 <label for="capibara">Ik heb een capibara</label>
 ```
+
+<br>
+Dit zit er in de browser als volgt uit:
+
+<img src="images/Form-example-checkbox.png" alt="Voorbeeld formulier" width="500">
 
 <br>
 
@@ -242,6 +257,13 @@ van de opties selecteren.
 
 > _Het label is niet alleen voor de leesbaarheid maar helpt ook om de "click area" van het element groter te maken_
 
+<br>
+Dit zit er in de browser als volgt uit:
+
+<img src="images/Form-example-radio.png" alt="Voorbeeld formulier" width="300">
+
+<br>
+
 ### Meer form elementen
 
 Op W3Schools vind je nog meer voorbeelden voor [Forms](https://www.w3schools.com/html/html_forms.asp) en
@@ -262,6 +284,11 @@ attribuut verwacht geen waarde. Je zet dus niet `required=""` neer, maar slechts
 ```html
 <label for="username">Username:</label> <input type="text" id="username" name="username" required />
 ```
+
+<br>
+Dit zit er in de browser als volgt uit nadat er op verzonden is geklikt, terwijl de input nog leeg is:
+
+<img src="images/Form-example-required.png" alt="Voorbeeld formulier" width="400">
 
 <br><br>
 
