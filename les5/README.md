@@ -149,6 +149,7 @@ Andere eigenschappen
 @media (min-width: 600px) and (orientation: landscape) {
 }
 ```
+Als je rekening wil houden met dark mode, dan kan je ook de [nieuwe "light dark" syntax gebruiken](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/light-dark). Als je twijfelt of dit wel voldoende ondersteund wordt in browsers, dan kan je kijken op [Can I Use](https://caniuse.com/?search=light-dark)
 
 <br>
 
