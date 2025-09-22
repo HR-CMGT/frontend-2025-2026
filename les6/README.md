@@ -71,8 +71,8 @@ Voer de volgende stappen uit:
 4. Je krijgt nu een lijst met _errors_ en _warnings_ en _info_ (zie screenshot hieronder). _Errors_ moet je altijd
    oplossen, _warnings_ zijn vaak een goed idee om op te lossen en _info_ is over het algemeen puur ter informatie.
 5. Lees de meldingen aandachtig door en probeer ze op te lossen in de code. Begrijp je een melding niet? Kopieer de
-   melding dan en plak deze in Copilot en vraag om een uitleg. Laat Copilot het niet voor jou oplossen, daar leer jij
-   niets van.
+   melding dan en plak deze in Copilot en vraag om een uitleg, of Google erop. Laat Copilot het niet voor jou oplossen,
+   daar leer jij niets van.
 6. Tip: W3C heeft ook een [CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
 
 <img src="./images/W3C-validator.png" alt="W3C validator" title="W3C validator" width="1012">
