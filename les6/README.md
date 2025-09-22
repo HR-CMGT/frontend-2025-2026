@@ -81,10 +81,10 @@ Voer de volgende stappen uit:
 
 # Opdracht 2: Wave accessibility tool
 
-Een website maak je zodat mensen deze kunnen gebruiken. Er is echter een grote groep mensen die door een handicap
-websites niet kunnen gebruiken zoals de meeste mensen dat doen. Denk maar bijvoorbeeld aan mensen met een visuele
-beperking, waardoor ze niet alles of zelfs helemaal niets kunnen zien. Het is belangrijk dat jij als developer rekening
-houdt met deze groep mensen. Dit is sinds 28 juni 2025 voor veel bedrijven zelfs verplicht geworden om te doen door de
+Een website maak je zodat mensen deze kunnen gebruiken. Er is echter een grote groep mensen die websites niet kunnen
+gebruiken zoals de meeste mensen dat doen. Denk maar bijvoorbeeld aan mensen met een visuele beperking, waardoor ze
+niet alles of zelfs helemaal niets kunnen zien. Het is belangrijk dat jij als developer rekening houdt met deze
+groepen. Dit is sinds 28 juni 2025 voor veel bedrijven zelfs verplicht geworden om te doen door de
 [European Accessibility Act](https://ondernemersplein.overheid.nl/european-accessibility-act-.producten-en-diensten-moeten-volledig-toegankelijk-zijn/).
 
 In deze opdracht ga je kennismaken met de tool **Wave** die jou inzicht geeft in de belangrijke onderdelen waar je
@@ -126,6 +126,11 @@ Hieronder vind je een voorbeeld van een standaard formulier:
   <button type="submit">Verzenden</button>
 </form>
 ```
+
+<br>
+Dit zit er in de browser als volgt uit:
+
+<img src="images/Form-example1.png" alt="Voorbeeld formulier">
 
 <br><br>
 
