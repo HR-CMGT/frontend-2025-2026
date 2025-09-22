@@ -173,35 +173,49 @@ Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je m
 
 Een _animation_ bepaalt net als een _transition_ hoe de CSS van een element verandert. Je hebt alleen veel meer
 controle over wat er met het element gebeurt. Een animatie kan je laten afspelen tussen twee of meer keyframes. De
-animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen. Om te beginnen
-bepaal je met CSS `@keyframes` welke eigenschappen gaan animeren.
+animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen. 
+
+In dit voorbeeld gaan we een [loading spinner](https://codepen.io/eerk/pen/myVJbNa?editors=1100) bouwen:
+
+```html
+<div class="loader"></div>
+```
 
 ```css
-@keyframes my-cool-animation {
+.loader {
+  width:40px;
+  height:40px;
+  border:10px solid lightgrey;
+  border-top:10px solid blue;
+  border-radius: 50%;
+}
+```
+Voeg nu een `@keyframes` onderdeel toe aan je CSS file, waarin je beschrijft wat er moet animeren. In dit geval gaat de `rotation` van `0` tot `360` graden:
+
+```css
+@keyframes my-rotation {
   from {
-    opacity: 0;
-    transform: translateX(20%);
+    transform: rotate(0deg);
   }
   to {
-    opacity: 1;
-    transform: translateX(0%);
+    transform: rotate(360deg);
   }
 }
 ```
 
-Vervolgens kan je de keyframes toekennen aan een element via het `animation` keyword. Hierin kan je ook aangeven hoe
+Als laatste kan je deze keyframes toekennen aan je loader via het `animation` keyword. Hierin kan je ook aangeven hoe
 lang de animatie duurt, of het moet herhalen, etc.
 
-```css
-div {
-  animation: 3s ease-in infinite my-cool-animation;
+```js
+.loader {
+  ...
+  animation: my-rotation 1s infinite linear;
 }
 ```
 
 <br>
 
-> De browser inspector heeft een <a href="https://youtu.be/w4J8sJpHKvw?si=NnAbrkcKg81YJfFA" target="_blank">animation
-> inspector</a> om de timing van je animaties mee te ontwerpen.
+> *De browser inspector heeft een <a href="https://youtu.be/w4J8sJpHKvw?si=NnAbrkcKg81YJfFA" target="_blank">animation inspector</a> om de timing van je animaties mee te ontwerpen.*
 
 <br>
 
