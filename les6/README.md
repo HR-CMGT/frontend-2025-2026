@@ -87,7 +87,7 @@ niet alles of zelfs helemaal niets kunnen zien. Het is belangrijk dat jij als de
 groepen. Dit doe je door de [WCAG richtlijnen](https://www.w3.org/WAI/standards-guidelines/wcag/) te handhaven.
 
 - [Overheidswebsites moeten toegankelijk zijn](https://www.digitoegankelijk.nl/wetgeving/wat-is-verplicht)
-- Toegankelijkheid is sinds juni 2025 ook voor consumentenwebsites verplicht geworden, middels de [European Accessibility Act](https://ondernemersplein.overheid.nl/european-accessibility-act-producten-en-diensten-moeten-volledig-toegankelijk-zijn/)
+- Toegankelijkheid is sinds juni 2025 ook voor consumentenwebsites verplicht, middels de [European Accessibility Act](https://ondernemersplein.overheid.nl/european-accessibility-act-producten-en-diensten-moeten-volledig-toegankelijk-zijn/)
 
 In deze opdracht ga je kennismaken met de tool **Wave** die jou inzicht geeft in de toegankelijkheid van je website.
 
