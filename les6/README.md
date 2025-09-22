@@ -537,8 +537,7 @@ kies de juiste `type` per veld.
 Het enige wat je voor deze opdracht in de CSS moet doen is ervoor zorgen dat de inhoud van `<form>` als een `column`
 wordt weergegeven, zodat alles onder elkaar komt te staan.
 
-Bij de `<select>` onder \*Verstuur naar\*\* moet je kunnen kiezen uit de volgende docenten: Antwan, Bas, Erik en
-Martijn.
+Bij de `<select>` onder \*Verstuur naar\*\* moet je kunnen kiezen uit de volgende docenten: Antwan, Erik en Martijn.
 
 > Wil je het formulier ook echt versturen? Kijk dan naar [opdracht 6](#opdracht-6-het-formulier-versturen).
 
@@ -584,7 +583,7 @@ formulier wordt gemaild. Voer daarvoor de volgende stappen uit:
 1. In de `<select>` kies je een docent en naar diegene wordt jouw vraag gemaild. Om dit werkend te maken moet je bij
    ieder formulier-element de juiste `name` invoeren. De volgende names zijn nodig: 'name', 'city', 'email',
    'birthdate', 'category', 'question' en 'send-to'. Iedere docent heeft trouwens een eigen nummer die je als `value`
-   in moet stellen: 0 = Antwan, 1 = Bas, 2 = Erik en 3 = Martijn.
+   in moet stellen: 0 = Antwan, 1 = Erik en 2 = Martijn.
 
 2. Vervang de openings `<form>` tag voor onderstaande. De betekenis van deze attributen leer je bij Programmeren 2.
 
