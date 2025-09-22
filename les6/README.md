@@ -73,6 +73,7 @@ Voer de volgende stappen uit:
 5. Lees de meldingen aandachtig door en probeer ze op te lossen in de code. Begrijp je een melding niet? Kopieer de
    melding dan en plak deze in Copilot en vraag om een uitleg. Laat Copilot het niet voor jou oplossen, daar leer jij
    niets van.
+6. Tip: W3C heeft ook een [CSS validator](https://jigsaw.w3.org/css-validator/#validate_by_input).
 
 <img src="./images/W3C-validator.png" alt="W3C validator" title="W3C validator" width="1012">
 
