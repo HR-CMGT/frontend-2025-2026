@@ -6,7 +6,7 @@
   - [Leerdoelen](#leerdoelen)
 - [Opdracht 1 - W3C validator](#opdracht-1---w3c-validator)
   - [De opdracht](#de-opdracht)
-- [Opdracht 2: Wave accessibility tool](#opdracht-2-wave-accessibility-tool)
+- [Opdracht 2: Accessibility](#opdracht-2-accessibility)
   - [De opdracht](#de-opdracht-1)
 - [Formulieren](#formulieren)
   - [Type invoervelden](#type-invoervelden)
@@ -87,7 +87,8 @@ niet alles of zelfs helemaal niets kunnen zien. Het is belangrijk dat jij als de
 groepen. Dit doe je door de [WCAG richtlijnen](https://www.w3.org/WAI/standards-guidelines/wcag/) te handhaven.
 
 - [Overheidswebsites moeten toegankelijk zijn](https://www.digitoegankelijk.nl/wetgeving/wat-is-verplicht)
-- Toegankelijkheid is sinds juni 2025 ook voor consumentenwebsites verplicht, middels de [European Accessibility Act](https://ondernemersplein.overheid.nl/european-accessibility-act-producten-en-diensten-moeten-volledig-toegankelijk-zijn/)
+- Toegankelijkheid is sinds juni 2025 ook voor consumentenwebsites verplicht, middels de
+  [European Accessibility Act](https://ondernemersplein.overheid.nl/european-accessibility-act-producten-en-diensten-moeten-volledig-toegankelijk-zijn/)
 
 In deze opdracht ga je kennismaken met de tool **Wave** die jou inzicht geeft in de toegankelijkheid van je website.
 
@@ -295,18 +296,33 @@ Dit zit er in de browser als volgt uit nadat er op verzonden is geklikt, terwijl
 
 ## Formulier versturen
 
-Om de data van je formulier te kunnen versturen moet je **_alle_** invulvelden binnen een `<form>` staan. Die moet weer
-het attribuut `action` bevatten, waarin bepaald naar welke URL het formulier verzonden moet worden.
+Om een formulier te kunnen verzenden moet je, naast het aanmaken van de inputs zoals hierboven beschreven, aangeven
+waar het formulier naar verzonden moet worden én een verzendknop toevoegen.
 
-Om het formulier te kunnen verzenden heb je wel een submit button nodig! Zie hieronder een voorbeeld van een formulier
-met submit button.
+**Form action**<br> Je kunt aangeven waar het formulier naartoe verzonden moet worden door de action van de form in te
+stellen. Hierin voer je een bestandsnaam of URL in en alle ingevulde velden worden daar dan naartoe verzonden. In het
+voorbeeld hieronder zie je een voorbeeld hiervan.
+
+**Verzendknop**<br> Om een formulier te kunnen verzenden moet er wel een verzendknop zijn. Je kunt dit op twee manieren
+toevoegen en beide opties doen hetzelfde, alleen gebruik je een andere HTML-tag:
+
+- Een button met type submit;
+- Een input met type submit.
+
+Het ligt aan jouw voorkeur welke je van de twee gebruikt, beide zijn prima.
+
+Hieronder een voorbeeld van de action en verzendknop
 
 ```html
 <form action="contact-bedankt.html">
   <!-- Hier komen ALLE form elementen -->
 
   <!-- De submit button verstuurt het formulier -->
-  <button type="submit">Versturen</button>
+  <!-- Met een button -->
+  <button type="submit" name="submit-button">Verzenden</button>
+
+  <!-- Met een input -->
+  <input type="submit" name="submit-button" value="Verzenden" />
 </form>
 ```
 
@@ -322,11 +338,12 @@ In kwartaal 2 en 3 gaan we leren hoe we de ingevulde data uit het formulier kunn
 ## Styling
 
 De default styling van veel form-elementen is niet erg mooi en niet optimaal leesbaar. Gelukkig kan je form-elementen
-volledig naar wens vormgeven met CSS. Een aantal tips om het leesbaarder te maken:
+volledig naar wens vormgeven met CSS. Een aantal tips om de `<input>Q‰V1 WC2 bnxz;lmkkmz` leesbaarder te maken:
 
 - stel de `font-size` van de inputs in op de standaard font-size door deze op `1rem` in te stellen;
 - voeg `padding` toe om de leesbaarheid te verbeteren.
-- gebruik `accent-color` om al je input elementen een default kleur te geven die past bij je website.
+- gebruik `accent-color` om al je input elementen een default kleur te geven die past bij je website (werkt niet op
+  tekstvelden).
 
 ```css
 /* voorbeeld: alle input elementen */
