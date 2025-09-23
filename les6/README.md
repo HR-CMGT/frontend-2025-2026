@@ -338,7 +338,7 @@ In kwartaal 2 en 3 gaan we leren hoe we de ingevulde data uit het formulier kunn
 ## Styling
 
 De default styling van veel form-elementen is niet erg mooi en niet optimaal leesbaar. Gelukkig kan je form-elementen
-volledig naar wens vormgeven met CSS. Een aantal tips om de `<input>Q‰V1 WC2 bnxz;lmkkmz` leesbaarder te maken:
+volledig naar wens vormgeven met CSS. Een aantal tips om de `<input>` leesbaarder te maken:
 
 - stel de `font-size` van de inputs in op de standaard font-size door deze op `1rem` in te stellen;
 - voeg `padding` toe om de leesbaarheid te verbeteren.
