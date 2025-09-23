@@ -651,8 +651,8 @@ testfunctie gemaakt waardoor jouw formulier wordt gemaild. Voer daarvoor de volg
    voor je vraag, de gekozen docent zal er zo snel mogelijk op reageren."_. Test of het werkt door op de `submit`
    button te klikken.
 
-   ⚠️ LET OP: het doorsturen naar contact-bedankt.html werkt niet als de website in Visual Studio Code nog in een
-   submap staat.
+   ⚠️ LET OP: het doorsturen naar contact-bedankt.html werkt niet als de website in Visual Studio Code in een submap
+   staat.
 
 <br><br>
 
