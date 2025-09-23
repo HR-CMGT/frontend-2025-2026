@@ -462,7 +462,7 @@ Dit zit er in de browser als volgt uit wanneer de username leeg is gelaten en er
 
 <img src="images/Form-example-validation.png" alt="Voorbeeld formulier" width="400">
 
-<br><br>
+<br><br><br>
 
 # Opdracht 3 - Formulieren
 
@@ -479,7 +479,8 @@ bezoeken.
 Voer de volgende stappen uit:
 
 1. Maak een nieuwe map aan en noem die `forms` en open deze in Visual Studio Code. Zet daarin de bestandsstructuur
-   neer, zoals omschreven in [opdracht 1f uit les 1](../les1/#opdracht-1f---bestandsstructuur-html-en-css).
+   neer, zoals omschreven in [opdracht 1f uit les 1](../les1/#opdracht-1f---bestandsstructuur-html-en-css). Zet dit
+   niet weer in een submap in Visual Studio Code, want anders gaat het fout bij opdracht 3f.
 2. Maak vervolgens in dit project nog een bestand aan met de naam `contact.html`. Kopieer de volledige inhoud van
    `index.html` en plak deze in `contact.html`. Dubbelcheck of je nu in beide bestanden dezelfde link hebt naar de
    `style.css`, zodat je dezelfde stijl op beide pagina's kan gebruiken.
@@ -649,6 +650,9 @@ testfunctie gemaakt waardoor jouw formulier wordt gemaild. Voer daarvoor de volg
    het formulier hebt verzonden word je automatisch doorgestuurd naar deze pagina. Zet hierop een tekst als _"Bedankt
    voor je vraag, de gekozen docent zal er zo snel mogelijk op reageren."_. Test of het werkt door op de `submit`
    button te klikken.
+
+   ⚠️ LET OP: het doorsturen naar contact-bedankt.html werkt niet als de website in Visual Studio Code nog in een
+   submap staat.
 
 <br><br>
 
