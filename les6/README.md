@@ -29,7 +29,7 @@
   - [Opdracht 3c - CSS formulier](#opdracht-3c---css-formulier)
   - [Opdracht 3d - Responsive](#opdracht-3d---responsive)
   - [Opdracht 3e - Validatie](#opdracht-3e---validatie)
-  - [Opdracht 3f - het formulier versturen](#opdracht-3f---het-formulier-versturen)
+  - [Opdracht 3f - Het formulier versturen](#opdracht-3f---het-formulier-versturen)
 - [Links](#links)
 
 <br><br><br>
@@ -397,7 +397,7 @@ button:active {
 
 Behalve [accent color](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color) zijn er niet veel mogelijkheden
 om checkboxes en radio buttons te stylen. Je kan echter wel je eigen checkbox / radio button bouwen.
-[Bekijk hier een voorbeeld.](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp).
+[Bekijk hier een voorbeeld](https://www.w3schools.com/howto/howto_css_custom_checkbox.asp).
 
 <br>
 <br>
@@ -447,7 +447,7 @@ Op mobile veranderen we de `flex-direction` in `column` zodat de items onder elk
 Je kan via CSS de stijl aanpassen van een form element dat niet goed is ingevuld.
 
 ```html
-<input type="email" required placeholder="piet@henk.nl" />
+<input type="text" required placeholder="Your username" /> <input type="email" required placeholder="Your email" />
 ```
 
 ```css
@@ -456,6 +456,11 @@ input:user-invalid {
   border: 2px solid red;
 }
 ```
+
+<br>
+Dit zit er in de browser als volgt uit wanneer de username leeg is gelaten en er een ongeldig emailadres is ingevoerd:
+
+<img src="images/Form-example-validation.png" alt="Voorbeeld formulier" width="400">
 
 <br><br>
 
@@ -471,14 +476,12 @@ bezoeken.
 
 ## Opdracht 3a - Nieuw project opzetten
 
-Voor de lesopdracht van vandaag moet je een nieuw project opzetten, anders kan je opdracht 6 namelijk niet uitvoeren.
 Voer de volgende stappen uit:
 
-1. Maak een nieuw project aan en noem die `forms`, zoals omschreven in
-   [opdracht 1e van les 1](../les1/#opdracht-1d---eerste-project-aanmaken). Zet daarin de bestandsstructuur neer, zoals
-   omschreven in [opdracht 1e uit les 1](../les1/#opdracht-1e---bestandsstructuur-html-en-css).
-2. Maak vervolgens in de nieuwe map `forms` nog een bestand aan met de naam `contact.html`. Kopieer de volledige inhoud
-   van `index.html` en plak deze in `contact.html`. Dubbelcheck of je nu in beide bestanden dezelfde link hebt naar de
+1. Maak een nieuwe map aan en noem die `forms` en open deze in Visual Studio Code. Zet daarin de bestandsstructuur
+   neer, zoals omschreven in [opdracht 1f uit les 1](../les1/#opdracht-1f---bestandsstructuur-html-en-css).
+2. Maak vervolgens in dit project nog een bestand aan met de naam `contact.html`. Kopieer de volledige inhoud van
+   `index.html` en plak deze in `contact.html`. Dubbelcheck of je nu in beide bestanden dezelfde link hebt naar de
    `style.css`, zodat je dezelfde stijl op beide pagina's kan gebruiken.
 3. Kopieer vervolgens onderstaande startcode. Pas nog wel in beide HTML-bestanden de `href` van alle linkjes aan in de
    `<nav>`, zodat deze linken naar de juiste pagina. Voor meer info over hoe je dit correct instelt,
@@ -583,14 +586,14 @@ main {
 
 In deze opdracht ga je de HTML van het formulier schrijven. Bouw hiervoor het formulier in onderstaand ontwerp na. Zorg
 ervoor dat het er inhoudelijk echt hetzelfde uitziet. Dus voer ook de `placeholders` in, maak alle velden `required` en
-kies de juiste `type` per veld.
+kies de juiste `type` per veld. Koppel de `<label>` en `<input>` aan elkaar.
 
-Het enige wat je voor deze opdracht in de CSS moet doen is ervoor zorgen dat de inhoud van `<form>` als een `column`
-wordt weergegeven, zodat alles onder elkaar komt te staan.
+Het enige wat je voor deze opdracht in de CSS moet doen is de `<form>` instellen als `Flexbox` met direction `column`,
+zodat alles onder elkaar komt te staan.
 
-Bij de `<select>` onder \*Verstuur naar\*\* moet je kunnen kiezen uit de volgende docenten: Antwan, Erik en Martijn.
+Bij de `<select>` onder **Verstuur naar** moet je kunnen kiezen uit de volgende docenten: Antwan, Erik en Martijn.
 
-> Wil je het formulier ook echt versturen? Kijk dan naar [opdracht 6](#opdracht-6-het-formulier-versturen).
+> Wil je het formulier ook echt versturen? Kijk dan naar [opdracht 3f](#opdracht-3f---het-formulier-versturen).
 
 <img src="./images/Opdracht2.png" alt="Opdracht 2" title="Opdracht 2" width="1012">
 
@@ -625,11 +628,11 @@ ingevoerd moeten worden. Zorg er daarom voor dat jouw formulier er hetzelfde uit
 
 <br><br>
 
-## Opdracht 3f - het formulier versturen
+## Opdracht 3f - Het formulier versturen
 
-Tijdens dit vak ga je niet leren hoe je dit formulier kan verzenden, dat komt in de volgende periode. Om je toch te
-laten zien dat je dit formulier nu daadwerkelijk kan verzenden hebben we een testfunctie gemaakt waardoor jouw
-formulier wordt gemaild. Voer daarvoor de volgende stappen uit:
+Tijdens dit vak ga je niet leren hoe je dit formulier kan verzenden en iets kan doen met die data, dat komt in de
+volgende periode. Om je toch te laten zien dat je dit formulier nu daadwerkelijk kan verzenden hebben we een
+testfunctie gemaakt waardoor jouw formulier wordt gemaild. Voer daarvoor de volgende stappen uit:
 
 1. In de `<select>` kies je een docent en naar diegene wordt jouw vraag gemaild. Om dit werkend te maken moet je bij
    ieder formulier-element de juiste `name` invoeren. De volgende names zijn nodig: 'name', 'city', 'email',
