@@ -15,6 +15,7 @@
     - [Checkboxes](#checkboxes)
     - [Radio buttons](#radio-buttons)
     - [Meer form elementen](#meer-form-elementen)
+  - [Toegankelijkheid: for en id](#toegankelijkheid-for-en-id)
   - [Required fields](#required-fields)
   - [Formulier versturen](#formulier-versturen)
     - [Data verwerken](#data-verwerken)
@@ -270,6 +271,27 @@ Dit zit er in de browser als volgt uit:
 
 Op W3Schools vind je nog meer voorbeelden voor [Forms](https://www.w3schools.com/html/html_forms.asp) en
 [Form Elements](https://www.w3schools.com/html/html_form_elements.asp)
+
+<br>
+<br>
+
+## Toegankelijkheid: for en id
+
+Stel je wilt een input voor `email`. Dan moet je hier ook een label bij maken, aangezien dat label aangeeft wat voor
+soort informatie er in die input moet worden ingevoerd. Deze input en label worden echter niet automatisch aan elkaar
+gekoppeld, dus dat moet je nog zelf doen.
+
+Dit doe je door de input en id te geven en vervolgens in de label in het attribuut `for` diezelfde id in te voeren. Zie
+onderstaand voorbeeld:
+
+```html
+<label for="email">Email</label> <input type="text" id="email" name="email" />
+```
+
+De de id van de input ingevoerd in als `for` bij de label. Je zou het dus kunnen lezen als:
+<br>`This label is for input email`.
+
+Dit komt de toegankelijkheid ten goede, omdat hierdoor o.a. screenreaders begrijpen welke label bij welke input hoort.
 
 <br>
 <br>
