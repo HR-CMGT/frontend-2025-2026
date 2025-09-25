@@ -16,7 +16,7 @@
 - [Opdracht 1 - Foodblog animeren](#opdracht-1---foodblog-animeren)
   - [Transition op nav bar](#transition-op-nav-bar)
   - [Fixed nav bar](#fixed-nav-bar)
-  - [Fancy cards](#fancy-cards)
+  - [Recepten](#recepten)
   - [Chat request](#chat-request)
   - [Zelfstandig oefenen](#zelfstandig-oefenen)
     - [Falling cards](#falling-cards)
@@ -290,8 +290,8 @@ nav.sticky {
 
 # Opdracht 1 - Foodblog animeren
 
-Voer onderstaande opdrachten uit op de Foodblog die je in een eerdere les hebt gemaakt. Maak eventueel een kopie van
-dat project als je het origineel wilt behouden.
+Voer onderstaande opdrachten uit op de foodblog (of de foodblog responsive) die je in een eerdere les hebt gemaakt.
+Maak eventueel een kopie van dat project als je het origineel wilt behouden.
 
 ## Transition op nav bar
 
@@ -300,13 +300,14 @@ dat project als je het origineel wilt behouden.
 
 ## Fixed nav bar
 
-- Gebruik `position:sticky` en `top:0` om de nav bar vast te zetten, zelfs als de pagina scrolt.
+- Gebruik `position:sticky` en `top:0` om de nav bar vast te zetten wanneer de pagina scrolt.
 
-## Fancy cards
+## Recepten
 
-- Plaats een aantal divs naast elkaar met de class `card`.
-- On `hover` maak je de card groter met `transform:scale(1.1)` en je voegt een schaduw toe met `box-shadow`.
-- Geef de card een `transition` zodat de animatie geleidelijk gaat.
+- On `hover` maak je de afbeelding van het recept groter met `transform:scale(1.1)` en je voegt een schaduw toe met
+  `box-shadow`.
+- Geef de afbeelding een `transition` zodat de animatie geleidelijk gaat.
+- Animeer het recept verder naar wens.
 
 ## Chat request
 
