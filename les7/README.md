@@ -50,14 +50,16 @@ Je kan ontzettend veel toffe animaties maken met CSS. Zie hieronder wat inspirat
   <a href="https://codepen.io/hluebbering/pen/dywzPre" target="_blank">glas effect</a>)_, en
   <a href="https://a.singlediv.com/" target="_blank">A single div</a>
 - <a href="https://css-tricks.com" target="_blank">CSS Tricks</a> - cool card navigation
-- <a href="https://linktr.ee/" target="_blank">Linktree</a> - background blur en ronddraaiende cards
+- <a href="https://linktr.ee/" target="_blank">Linktree</a> - verschillende animaties
 
 <br><br><br>
 
 # Transition
 
-Met een _transition_ kan je bepalen hoe snel de CSS van een element verandert. Dit past goed bij `hover` effecten, en
-werkt voor bijna alle eigenschappen, zoals:
+Stel je hebt een element die je met CSS een blauwe achtergrond hebt gegeven en wanneer je er met je muis overheen gaat
+(met `:hover`) wordt deze rood. Normaal gesproken springt de kleur dan direct van blauw naar rood. Met `transition`
+zorg je ervoor deze overgang vloeiend verloopt gedurende een bepaalde tijdsduur. Je zou het daardoor zo kunnen
+instellen dat de kleur blauw in 1 seconde overgaat in de kleur rood. Dit werkt voor bijna alle eigenschappen, zoals:
 
 - kleur,
 - afmeting,
@@ -84,6 +86,10 @@ gang, en remt aan het einde weer af (ease).
 }
 ```
 
+Dat ziet er als volgt uit:
+
+<img src="images/transition.gif" width="250">
+
 <br>
 
 **Hulpbronnen**
@@ -100,14 +106,20 @@ Je kunt met CSS meerdere effecten toepassen op HTML-elementen. Hieronder staan e
 
 ## Filter
 
-Er zijn verschillende filters beschikbaar die je op je elementen kan loslaten. Deze filters werken goed samen met
-transitions en animations.
+Filter in CSS is een eigenschap waarmee je grafische effecten op een element toepast, zoals vervagen, contrast
+aanpassen of zwart-wit maken. Het verandert dus hoe een element wordt weergegeven, zonder dat je de bronafbeelding of
+inhoud zelf hoeft te wijzigen. Deze filters werken goed samen met transitions en animations. Als je meerdere filters
+wil combineren moet je die samen op 1 regel plaatsen.
 
 ```css
 div {
   filter: blur(20px) brightness(50%) saturate(4) hue-rotate(24deg);
 }
 ```
+
+Deze filters zien er als volgt uit:
+
+<img src="images/filter.gif" width="250">
 
 <br>
 
@@ -134,6 +146,10 @@ div {
 }
 ```
 
+Dit ziet er in de browser als volgt uit:
+
+<img src="images/transform.gif" width="250">
+
   <br>
   
   **Hulpbronnen**
@@ -155,10 +171,13 @@ Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je m
   perspective: 100px;
 }
 .child {
-  transform: rotateY(20deg);
+  transform: rotateX(5deg) rotateY(5deg);
 }
 ```
 
+Als je deze code combineert met `:hover` ziet dat er als volgt uit:
+
+<img src="images/transform-3d.gif" width="250">
 <br>
 
 **Hulpbronnen**
@@ -173,7 +192,7 @@ Je kan elementen roteren op een 3D as, met `rotateX`, `rotateY`, `rotateZ`. Je m
 
 Een _animation_ bepaalt net als een _transition_ hoe de CSS van een element verandert. Je hebt alleen veel meer
 controle over wat er met het element gebeurt. Een animatie kan je laten afspelen tussen twee of meer keyframes. De
-animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen. 
+animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen.
 
 In dit voorbeeld gaan we een [loading spinner](https://codepen.io/eerk/pen/myVJbNa?editors=1100) bouwen:
 
@@ -183,14 +202,16 @@ In dit voorbeeld gaan we een [loading spinner](https://codepen.io/eerk/pen/myVJb
 
 ```css
 .loader {
-  width:40px;
-  height:40px;
-  border:10px solid lightgrey;
-  border-top:10px solid blue;
+  width: 40px;
+  height: 40px;
+  border: 10px solid lightgrey;
+  border-top: 10px solid blue;
   border-radius: 50%;
 }
 ```
-Voeg nu een `@keyframes` onderdeel toe aan je CSS file, waarin je beschrijft wat er moet animeren. In dit geval gaat de `rotation` van `0` tot `360` graden:
+
+Voeg nu een `@keyframes` onderdeel toe aan je CSS file, waarin je beschrijft wat er moet animeren. In dit geval gaat de
+`rotation` van `0` tot `360` graden:
 
 ```css
 @keyframes my-rotation {
@@ -215,7 +236,8 @@ lang de animatie duurt, of het moet herhalen, etc.
 
 <br>
 
-> *De browser inspector heeft een <a href="https://youtu.be/w4J8sJpHKvw?si=NnAbrkcKg81YJfFA" target="_blank">animation inspector</a> om de timing van je animaties mee te ontwerpen.*
+> _De browser inspector heeft een <a href="https://youtu.be/w4J8sJpHKvw?si=NnAbrkcKg81YJfFA" target="_blank">animation
+> inspector</a> om de timing van je animaties mee te ontwerpen._
 
 <br>
 
@@ -314,7 +336,7 @@ om de oefeningen te kunnen maken.
 
 VOORBEELD
 
-<img src="./fallingcards.gif">
+<img src="images/fallingcards.gif">
 
 STARTCODE
 
@@ -365,7 +387,7 @@ ADVANCED
 
 - Gebruik `background-image:url()` en `text-shadow` om de kaartjes vorm te geven!
 
-<img src="./fallingcards-images.gif">
+<img src="images/fallingcards-images.gif">
 
 <br><br><br>
 
@@ -379,7 +401,7 @@ ADVANCED
 
 VOORBEELD
 
-<img src="audiobars.gif" width="200px">
+<img src="images/audiobars.gif" width="200px">
 
 STARTCODE
 
@@ -424,16 +446,16 @@ section div {
 
 Advanced
 
-- Geef de bars [deze background image](./audiobar-background.jpg) zodat de bar van groen naar rood gaat. Dit doe je met
-  `background-image:url()`.
+- Geef de bars [deze background image](images/audiobar-background.jpg) zodat de bar van groen naar rood gaat. Dit doe
+  je met `background-image:url()`.
 - Gebruik `background-position:bottom` zodat groen onderaan staat.
 - Gebruik `background-size:100px 200px` zodat de achtergrondafmeting hetzelfde is als de bar.
 
 VOORBEELD
 
-<img src="audiobars-color.gif" width="200px">
+<img src="images/audiobars-color.gif" width="200px">
 
-<Br><br><br>
+<br><br><br>
 
 # Responsive design
 
@@ -456,7 +478,7 @@ Op mobiel wil je wellicht geen `hover` effecten hebben, omdat er geen muispointe
 - [CSS Filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function)
 - [CSS Gradient](https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient)
 - [Blend mode](https://codepen.io/tommiehansen/pen/BaGyVVy)
-- [Ontwerp easing met de browser inspector](./easing-editor.png) of kies een [custom easing](https://easings.net/)
+- [Ontwerp easing met de browser inspector](images/easing-editor.png) of kies een [custom easing](https://easings.net/)
 - [Achterkant Div](https://css-tricks.com/almanac/properties/b/backface-visibility/) en
   [voorbeeld](https://codepen.io/eerk/pen/WNLdrLK)
 - [Animatie gebaseerd op scroll](https://developer.mozilla.org/en-US/blog/scroll-progress-animations-in-css/)
