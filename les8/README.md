@@ -25,8 +25,7 @@ In deze les ligt de focus op het volgende leerdoel:
 <br>
 
 Alle leerdoelen zijn terug te vinden in de
-[cursushandleiding](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/879825).
-
+[cursushandleiding op Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/units/824025)
 <br><br><br>
 
 # Opdracht 1: Foodblog genereren met AI
@@ -51,7 +50,7 @@ webpagina's.
 
 2. **Doel**: Het ontwerp van [opdracht 2](#opdracht-2-foodblog) zoveel mogelijk nabouwen met AI.
 3. **Agent openen**: In Visual Studio Code zit Copilot; een AI-tool die jou op meerdere manieren kan helpen. Open
-   copilot en stel hem in op `Agent`. Op die manier zal copilot met je "meedenken" over wat de beste oplossing is.
+   copilot en stel hem in op `Agent`. Op die manier zal copilot met je "meedenken" over wat de beste oplossing is. 🤯 Een `agent` kan ook rechtstreeks in je code typen!
 
 4. **Experimenteer met prompts**: Beschrijf wat je wilt bereiken en kijk wat de AI genereert. Probeer verschillende
    benaderingen om te zien wat het beste werkt. Niet het gewenste resultaat? Schrijf meerdere prompts om het bij te

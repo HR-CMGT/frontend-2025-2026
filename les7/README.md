@@ -190,11 +190,20 @@ Als je deze code combineert met `:hover` ziet dat er als volgt uit:
 
 # Animation
 
-Een _animation_ bepaalt net als een _transition_ hoe de CSS van een element verandert. Je hebt alleen veel meer
-controle over wat er met het element gebeurt. Een animatie kan je laten afspelen tussen twee of meer keyframes. De
-animatie kan automatisch afspelen, en je kan meerdere complexe animaties na elkaar laten afspelen.
+Een _animation_ bepaalt net als een _transition_ hoe de CSS van een element verandert. Het belangrijkste verschil
+tussen `transition` en `animation` is dat een `transition` automatisch door de browser wordt aangeroepen zodra er iets
+in de layout verandert. Dat kan bijvoorbeeld het schalen van het venster zijn, of een `hover` over een element. Een
+`transition` vindt altijd plaats tussen een startpositie en een eindpositie.
 
-In dit voorbeeld gaan we een [loading spinner](https://codepen.io/eerk/pen/myVJbNa?editors=1100) bouwen:
+Een `animation` moet je handmatig toevoegen of verwijderen. Dit is dus minder interactief dan een `transition`. Een
+`animation` kan `keyframes` hebben waarin je handmatig kan bepalen wat er precies moet veranderen, en hoeveel stappen
+er zijn tussen het begin en het eind.
+
+[Voorbeeld animation met een zonnetje en wolken](https://codepen.io/yudizsolutions/pen/rNmzxWE)
+
+![zonnetje](./zonnetje.gif)
+
+In het volgende voorbeeld gaan we een [loading spinner](https://codepen.io/eerk/pen/myVJbNa?editors=1100) bouwen:
 
 ```html
 <div class="loader"></div>
