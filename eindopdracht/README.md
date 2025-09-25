@@ -28,7 +28,7 @@ zetten naar HTML en CSS. <br> ⚠️ Je schrijft alle code zelf.
 
 ## Voorbeeld screencast
 
-In [deze video op Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/topics/852459) krijg je een uitleg over
+In [de video op Brightspace](https://brightspace.hr.nl/d2l/le/lessons/192811/units/824025) krijg je een uitleg over
 wat er in jouw screencast moet zitten en kun je een voorbeeld bekijken.
 
 <br>
