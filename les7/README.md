@@ -43,30 +43,27 @@ Alle leerdoelen zijn terug te vinden in de
 
 # What CSS can do
 
-Je kan ontzettend veel toffe animaties maken met CSS. Zie hieronder wat inspiratie.
+CSS is een vakgebied waar telkens nieuwe mogelijkheden bij komen. Zie hieronder voor inspiratie.
 
+- Glass effect <a href="https://codepen.io/eerk/pen/NPxxbqw" target="_blank">voorbeeld 1</a> en <a href="https://codepen.io/hluebbering/pen/dywzPre" target="_blank">voorbeeld 2</a>
 - <a href="https://codepen.io/spark" target="_blank">Codepen Spark</a>
-  _(<a href="https://codepen.io/Jopzik/pen/yLGMzOK" target="_blank">kat in wasmachine</a> en
-  <a href="https://codepen.io/hluebbering/pen/dywzPre" target="_blank">glas effect</a>)_, en
-  <a href="https://a.singlediv.com/" target="_blank">A single div</a>
-- <a href="https://css-tricks.com" target="_blank">CSS Tricks</a> - cool card navigation
-- <a href="https://linktr.ee/" target="_blank">Linktree</a> - verschillende animaties
+- <a href="https://codepen.io/Jopzik/pen/yLGMzOK" target="_blank">kat in wasmachine</a>
+- <a href="https://a.singlediv.com/" target="_blank">A single div</a>
+- <a href="https://css-tricks.com" target="_blank">CSS Tricks</a>
+- <a href="https://linktr.ee/" target="_blank">Linktree</a>
 
 <br><br><br>
 
 # Transition
 
-Stel je hebt een element die je met CSS een blauwe achtergrond hebt gegeven en wanneer je er met je muis overheen gaat
-(met `:hover`) wordt deze rood. Normaal gesproken springt de kleur dan direct van blauw naar rood. Met `transition`
-zorg je ervoor deze overgang vloeiend verloopt gedurende een bepaalde tijdsduur. Je zou het daardoor zo kunnen
-instellen dat de kleur blauw in 1 seconde overgaat in de kleur rood. Dit werkt voor bijna alle eigenschappen, zoals:
+Een `transition` is een animatie die automatisch afspeelt na een gebruikers interactie in je pagina. Dit kan bijvoorbeeld het `resizen` van het window zijn, maar meestal is dit een `mouse` actie zoals `hover` of `click` op een element. Een `transition` zorgt voor een vloeiende overgang van de oude state (`mouse out`) naar de nieuwe state (`mouse hover`). Je kan allerlei eigenschappen animeren met transitions:
 
-- kleur,
-- afmeting,
+- color,
+- width, height,
 - transform,
 - margin, padding
 - box-shadow,
-- css filter
+- css-filter
 
 In dit voorbeeld komt een kaartje in 1 seconde los van de ondergrond on mouse hover. De _transition_ komt langzaam op
 gang, en remt aan het einde weer af (ease).
@@ -134,7 +131,7 @@ Deze filters zien er als volgt uit:
 
 ## Transform
 
-Met transform kan je een element schalen, roteren of verplaatsen, zonder dat je layout verstoord wordt. Dit werkt vaak
+Met transform kan je een element schalen, roteren of verplaatsen, ***zonder dat je layout verstoord wordt***. Dit werkt vaak
 goed samen met `hover` effecten en animaties. Als je meerdere transforms wil combineren moet je die samen op 1 regel
 plaatsen. Met `translate` verplaats je het element op de x,y as. Met `transform-origin` bepaal je het middelpunt van de
 transform.
