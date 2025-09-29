@@ -42,7 +42,7 @@ webpagina's.
 ## Aanpak
 
 1. **Voorbereiding**: Open een nieuw project in Visual Studio Code. Zet hierin eventueel de
-   [standaard bestandsstructuur](../les1#opdracht-1e---bestandsstructuur-html-en-css) klaar, maar Copilot kan dit ook
+   [standaard bestandsstructuur](../les1#opdracht-1f---bestandsstructuur-html-en-css) klaar, maar Copilot kan dit ook
    voor je doen (alleen dan is het waarschijnlijk niet naar wens).
 
 2. **Doel**: Het ontwerp van de homepage van [opdracht 2](#opdracht-2-foodblog) zoveel mogelijk nabouwen met AI.
