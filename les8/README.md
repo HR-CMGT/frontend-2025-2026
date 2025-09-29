@@ -45,7 +45,8 @@ webpagina's.
    [standaard bestandsstructuur](../les1#opdracht-1f---bestandsstructuur-html-en-css) klaar, maar Copilot kan dit ook
    voor je doen (alleen dan is het waarschijnlijk niet naar wens).
 
-2. **Doel**: Het ontwerp van de homepage van [opdracht 2](#opdracht-2-foodblog) zoveel mogelijk nabouwen met AI.
+2. **Doel**: Het ontwerp van de homepage van [opdracht 2 van les 3](../les3/README.md#opdracht-2-foodblog) zoveel
+   mogelijk nabouwen met AI.
 3. **Agent openen**: Tot nu toe heb je Copilot in Visual Studio Code gebruikt in de `ask` modus (oftewel, de
    vraag-modus). Je kan echter ook voor `edit` of `agent` kiezen. Met `edit` kun je code selecteren en vragen om
    wijzigingen, waarna Copilot de code direct aanpast. De `agent` modus is de meest geavanceerde. Deze probeert zelf te
