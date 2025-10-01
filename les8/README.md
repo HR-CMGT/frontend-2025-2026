@@ -70,7 +70,7 @@ Je gaat twee quizzen over de HTML en over CSS. Open in copilot een nieuwe chat, 
 volgende prompt uit en maak de quiz. Copilot gedraagt zich dan als quizmaster en zal jou vragen stellen over de code
 die is gegenereert.
 
-Fun tip: wil je dat de quiz master een piraat is? Voeg dan de volgende regel toe aan de belangrijke regels:
+🏴‍☠️ Fun tip: wil je dat de quiz master een piraat is? Voeg dan de volgende regel toe aan de belangrijke regels:
 `Spreek altijd met een piraten-accent.`
 
 > ⚠️ Disclaimer: Onderstaande prompt geeft geen zekerheid op een correctie quiz. Iedere AI-tool en ieder model wat
