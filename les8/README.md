@@ -67,7 +67,11 @@ begrijpt. AI kan je zien als hulpje die je helpt met code sneller schrijven, maa
 wat er zich onder de motorkap afspeelt.
 
 Je gaat twee quizzen over de HTML en over CSS. Open in copilot een nieuwe chat, stel deze in op `Ask` en voer de
-volgende prompt uit en maak de quiz.
+volgende prompt uit en maak de quiz. Copilot gedraagt zich dan als quizmaster en zal jou vragen stellen over de code
+die is gegenereert.
+
+Fun tip: wil je dat de quiz master een piraat is? Voeg dan de volgende regel toe aan de belangrijke regels:
+`Spreek altijd met een piraten-accent.`
 
 > ⚠️ Disclaimer: Onderstaande prompt geeft geen zekerheid op een correctie quiz. Iedere AI-tool en ieder model wat
 > daarin gebruikt wordt zal hier weer anders mee omgaan. Mocht je iets geks zien, geef dit dan aan bij jouw docent,
