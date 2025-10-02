@@ -60,6 +60,17 @@ webpagina's.
    door bovenin op het plusje te klikken, zodat Copilot ook met een frisse start begint. Experimenteer er vooral op
    los!
 
+5. **Instructions file**: Je kan vis de instellingen van copilot ook een `instructions file` toevoegen. Dit is een 
+   bestand genaamd `copilot-instructions.md`. Hierin plaats je zelf instructies die copilot moet volgen bij het genereren
+   van content. Dit kan bijvoorbeeld zijn: 
+
+   > Je bent een frontend docent die les geeft in html en css. Beantwoord vragen kort en gebruik alleen code die past
+     bij een beginner niveau. Gebruik geen javascript. Gebruik flex voor layout. Gebruik semantische tags.
+
+<img src="./generate-instructions.png" width="350" />
+
+<br><br><br>
+
 ## Quiz
 
 Wanneer je tevreden bent met het gegenereerde resultaat is het tijd om te achterhalen in hoeverre je de code ook
@@ -68,7 +79,7 @@ wat er zich onder de motorkap afspeelt.
 
 Je gaat twee quizzen over de HTML en over CSS. Open in copilot een nieuwe chat, stel deze in op `Ask` en voer de
 volgende prompt uit en maak de quiz. Copilot gedraagt zich dan als quizmaster en zal jou vragen stellen over de code
-die is gegenereert.
+die is gegenereert. *Je hoeft dus niet zelf een quiz site te maken.*
 
 🏴‍☠️ Fun tip: wil je dat de quiz master een piraat is? Voeg dan de volgende regel toe aan de belangrijke regels:
 `Spreek altijd met een piraten-accent.`, of ga voor `gollum`, `yoda` of `shakespeare`
